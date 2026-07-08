@@ -88,6 +88,9 @@ def main():
         j["work_mode"] = filters.classify_work_mode(j)
         j["salary_tag"] = filters.extract_salary(j)
 
+    filtered = [j for j in filtered if filters.passes_location(j)]
+    print(f"[main] after location filter: {len(filtered)}")
+
     filtered = [j for j in filtered if filters.meets_salary_floor(j, MIN_SALARY_LPA)]
     print(f"[main] after salary floor filter: {len(filtered)}")
 

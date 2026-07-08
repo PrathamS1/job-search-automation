@@ -1,19 +1,21 @@
 {
-  "_readme": "Each entry needs a 'platform' (greenhouse/lever/ashby) and the exact board 'token'/slug. Tokens below are STARTER GUESSES for well-known companies -- verify each one before relying on it (see instructions below), since tokens change and not every company listed is confirmed live. To verify: open the URL pattern shown in that source file (e.g. scraper/sources/greenhouse.py) with the token filled in, in your browser. If you get job JSON back, it's correct. If you get an error, search '<company name> careers greenhouse' or check their careers page footer/source for the real link. Add/remove entries freely -- this file drives both the source list AND the 'good company' ranking boost.",
+  "_readme": "Each entry needs a 'platform' (greenhouse/lever/ashby) and the exact board 'token'/slug. Tokens below are STARTER GUESSES -- verify each one before relying on it (see instructions below), since tokens change and not every company listed is confirmed live. To verify: open the URL pattern shown in that source file (e.g. scraper/sources/greenhouse.py) with the token filled in, in your browser. If you get job JSON back, it's correct. If you get an error, search '<company name> careers greenhouse' or check their careers page footer/source for the real link. Add/remove entries freely -- this file drives both the source list AND the 'good company' ranking boost.",
+
+  "_v2_note": "Previous version leaned on generic big-name US companies (Coinbase, Reddit, Robinhood) that mostly hire US-only and at senior levels -- wrong fit for a 1-year-experience, India-based, remote-preferred search. This list instead prioritizes (a) India-headquartered product companies/startups, and (b) companies explicitly known for remote-first, globally-open hiring. Still verify tokens -- board slugs change and not all of these are confirmed live.",
 
   "companies": [
-    { "name": "Razorpay", "platform": "lever", "token": "razorpay" },
     { "name": "Postman", "platform": "greenhouse", "token": "postman" },
-    { "name": "Notion", "platform": "greenhouse", "token": "notion" },
-    { "name": "Figma", "platform": "greenhouse", "token": "figma" },
-    { "name": "Airtable", "platform": "greenhouse", "token": "airtable" },
-    { "name": "Coinbase", "platform": "greenhouse", "token": "coinbase" },
-    { "name": "Reddit", "platform": "greenhouse", "token": "reddit" },
-    { "name": "DoorDash", "platform": "greenhouse", "token": "doordash" },
-    { "name": "Robinhood", "platform": "greenhouse", "token": "robinhood" },
-    { "name": "Grafana Labs", "platform": "greenhouse", "token": "grafanalabs" },
-    { "name": "Cred", "platform": "lever", "token": "cred" },
-    { "name": "Zerodha", "platform": "greenhouse", "token": "zerodha" },
-    { "name": "Freshworks", "platform": "greenhouse", "token": "freshworks" }
+    { "name": "Chargebee", "platform": "greenhouse", "token": "chargebee" },
+    { "name": "Whatfix", "platform": "greenhouse", "token": "whatfix" },
+    { "name": "Innovaccer", "platform": "greenhouse", "token": "innovaccer" },
+    { "name": "Hasura", "platform": "greenhouse", "token": "hasura" },
+    { "name": "Rocketlane", "platform": "greenhouse", "token": "rocketlane" },
+    { "name": "Darwinbox", "platform": "greenhouse", "token": "darwinbox" },
+    { "name": "Zeta", "platform": "greenhouse", "token": "zeta" },
+    { "name": "GitLab", "platform": "greenhouse", "token": "gitlab" },
+    { "name": "Automattic", "platform": "greenhouse", "token": "automattic" },
+    { "name": "Zapier", "platform": "greenhouse", "token": "zapier" },
+    { "name": "Doist", "platform": "lever", "token": "doist" }
   ]
 }
+
