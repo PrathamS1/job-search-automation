@@ -71,7 +71,7 @@
 
   <script>
     // Adjust this path if your data/jobs.json lives elsewhere relative to this page
-    fetch("../data/jobs.json")
+    fetch("./data/jobs.json")
       .then(r => r.json())
       .then(data => {
         const meta = document.getElementById("meta");

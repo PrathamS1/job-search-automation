@@ -22,7 +22,7 @@ import filters
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 COMPANIES_FILE = os.path.join(SCRIPT_DIR, "companies.json")
-OUTPUT_FILE = os.path.join(SCRIPT_DIR, "..", "data", "jobs.json")
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "..", "docs", "data", "jobs.json")
 
 MAX_AGE_DAYS = 7          # "up to a week old" per your preference
 TOP_N = 5                 # daily digest size
