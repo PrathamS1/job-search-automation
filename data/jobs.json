@@ -1,5 +1,56 @@
 {
-  "generated_at": "2026-07-07T14:19:42.715807+00:00",
-  "count": 0,
-  "jobs": []
+  "generated_at": "2026-07-08T06:22:30.769050+00:00",
+  "count": 5,
+  "jobs": [
+    {
+      "title": "Staff Product Designer - Advanced Trade",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://www.coinbase.com/careers/positions/7989037?gh_jid=7989037"
+    },
+    {
+      "title": "Engineering Manager, Advanced Signals (SWE)",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7966985"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Robinhood",
+      "location": "Menlo Park, CA",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507"
+    },
+    {
+      "title": "Android Engineer, Money Experience",
+      "company": "Robinhood",
+      "location": "Menlo Park, CA",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823"
+    },
+    {
+      "title": "Android Engineer, Trump Accounts",
+      "company": "Robinhood",
+      "location": "New York, NY",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758"
+    }
+  ]
 }
