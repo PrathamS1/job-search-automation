@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Job Digest</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #171a21;
+    --border: #262a33;
+    --text: #e8e9ec;
+    --muted: #8b8f9a;
+    --accent: #5b8cff;
+    --remote: #3ecf8e;
+    --hybrid: #f5b942;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 32px 16px 64px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  header { margin-bottom: 28px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: 0.85rem; }
+  .job {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 14px;
+  }
+  .job-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .title { font-size: 1.05rem; font-weight: 600; margin: 0; }
+  .company { color: var(--accent); font-weight: 500; }
+  .tags { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+  .tag {
+    font-size: 0.75rem;
+    padding: 3px 9px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+  .tag.remote { color: var(--remote); border-color: var(--remote); }
+  .tag.hybrid { color: var(--hybrid); border-color: var(--hybrid); }
+  .details { margin-top: 10px; font-size: 0.85rem; color: var(--muted); }
+  .apply {
+    display: inline-block;
+    margin-top: 12px;
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  .apply:hover { text-decoration: underline; }
+  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Daily Job Digest</h1>
+      <div class="meta" id="meta">Loading...</div>
+    </header>
+    <div id="jobs"></div>
+  </div>
+
+  <script>
+    // Adjust this path if your data/jobs.json lives elsewhere relative to this page
+    fetch("../data/jobs.json")
+      .then(r => r.json())
+      .then(data => {
+        const meta = document.getElementById("meta");
+        const container = document.getElementById("jobs");
+
+        if (data.generated_at) {
+          const d = new Date(data.generated_at);
+          meta.textContent = `Updated ${d.toLocaleString()} · ${data.count} job(s)`;
+        } else {
+          meta.textContent = "No data yet — trigger the daily workflow once to populate this.";
+        }
+
+        if (!data.jobs || data.jobs.length === 0) {
+          container.innerHTML = '<div class="empty">No matching jobs today. Check back tomorrow.</div>';
+          return;
+        }
+
+        container.innerHTML = data.jobs.map(job => `
+          <div class="job">
+            <div class="job-top">
+              <h3 class="title">${job.title} — <span class="company">${job.company}</span></h3>
+            </div>
+            <div class="tags">
+              <span class="tag ${job.work_mode === 'Remote' ? 'remote' : job.work_mode === 'Hybrid' ? 'hybrid' : ''}">${job.work_mode}</span>
+              <span class="tag">${job.location}</span>
+              <span class="tag">${job.source}</span>
+              <span class="tag">Posted ${job.posted}</span>
+            </div>
+            <div class="details">Salary: ${job.salary}</div>
+            <a class="apply" href="${job.apply_url}" target="_blank" rel="noopener">Apply →</a>
+          </div>
+        `).join("");
+      })
+      .catch(err => {
+        document.getElementById("meta").textContent = "Couldn't load jobs.json — " + err;
+      });
+  </script>
+</body>
+</html>
