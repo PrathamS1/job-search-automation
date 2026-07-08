@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "job-search-bot"
           git config user.email "actions@github.com"
-          git add data/jobs.json
+          git add docs/data/jobs.json
           git diff --quiet --cached || git commit -m "Daily job update: $(date -u +'%Y-%m-%d')"
           git push
