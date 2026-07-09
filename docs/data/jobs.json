@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:43:44.616919+00:00",
+  "generated_at": "2026-07-09T06:26:56.185293+00:00",
   "count": 5,
   "jobs": [
-    {
-      "title": "Payroll Analyst GEO (EMEA)",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8022430&gh_jid=8022430"
-    },
-    {
-      "title": "Sr Analyst, FP&A",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
-    },
-    {
-      "title": "Sr Analyst Payroll, APJ",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8028990&gh_jid=8028990"
-    },
     {
       "title": "Accountant",
       "company": "Elastic",
@@ -51,6 +21,36 @@
       "posted": "2026-07-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "Vercel",
+      "location": "Remote - United Kingdom, Germany",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+    },
+    {
+      "title": "Frontend Software Engineer ",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-08",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
+    },
+    {
+      "title": "Customer First GEO Content Specialist",
+      "company": "Okta",
+      "location": "Toronto, Ontario, Canada",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-02",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
     }
   ]
 }
