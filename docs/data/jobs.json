@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-09T06:26:56.185293+00:00",
+  "generated_at": "2026-07-10T06:26:03.187831+00:00",
   "count": 5,
   "jobs": [
-    {
-      "title": "Accountant",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-02",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8030471&gh_jid=8030471"
-    },
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
@@ -21,6 +11,16 @@
       "posted": "2026-07-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
+      "title": "Software Engineer (Fullstack, frontend-heavy), Integrations",
+      "company": "Postman",
+      "location": "Bengaluru, Karnataka, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7799606003"
     },
     {
       "title": "Solutions Architect",
@@ -38,19 +38,19 @@
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-08",
+      "posted": "2026-07-09",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     },
     {
-      "title": "Customer First GEO Content Specialist",
+      "title": "Identity Solutions Architect",
       "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
+      "location": "Sydney, Australia",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-07-02",
+      "posted": "2026-07-03",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8042985?gh_jid=8042985"
     }
   ]
 }
