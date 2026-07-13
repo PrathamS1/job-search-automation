@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-07-08T07:02:46.292793+00:00",
-  "count": 1,
+  "generated_at": "2026-07-12T05:42:30.915459+00:00",
+  "count": 5,
   "jobs": [
     {
-      "title": "Junior Front End Developer",
-      "company": "PULSEMEDIA (MENA)",
-      "location": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b1\u00d9\u008a\u00d8\u00a7\u00d8\u00b6, \u00d8\u00a7\u00d9\u0084\u00d8\u00b1\u00d9\u008a\u00d8\u00a7\u00d8\u00b6 \u00d8\u00a7\u00d9\u0084\u00d8\u00b1\u00d9\u008a\u00d8\u00a7\u00d8\u00b6 \u00d8\u00a7\u00d9\u0084\u00d8\u00b3\u00d8\u00b9\u00d9\u0088\u00d8\u00af\u00d9\u008a\u00d8\u00a9",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-05",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518"
+      "posted": "2026-07-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
+      "title": "Software Engineer (Fullstack, frontend-heavy), Integrations",
+      "company": "Postman",
+      "location": "Bengaluru, Karnataka, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7799606003"
+    },
+    {
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7957239"
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "Vercel",
+      "location": "Remote - United Kingdom, Germany",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+    },
+    {
+      "title": "Frontend Software Engineer ",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     }
   ]
 }
