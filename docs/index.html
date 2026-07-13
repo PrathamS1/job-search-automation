@@ -1,113 +1,638 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Job Digest</title>
-<style>
-  :root {
-    --bg: #0f1115;
-    --card: #171a21;
-    --border: #262a33;
-    --text: #e8e9ec;
-    --muted: #8b8f9a;
-    --accent: #5b8cff;
-    --remote: #3ecf8e;
-    --hybrid: #f5b942;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    padding: 32px 16px 64px;
-  }
-  .wrap { max-width: 720px; margin: 0 auto; }
-  header { margin-bottom: 28px; }
-  h1 { font-size: 1.5rem; margin: 0 0 4px; }
-  .meta { color: var(--muted); font-size: 0.85rem; }
-  .job {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 18px 20px;
-    margin-bottom: 14px;
-  }
-  .job-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-  .title { font-size: 1.05rem; font-weight: 600; margin: 0; }
-  .company { color: var(--accent); font-weight: 500; }
-  .tags { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
-  .tag {
-    font-size: 0.75rem;
-    padding: 3px 9px;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    color: var(--muted);
-  }
-  .tag.remote { color: var(--remote); border-color: var(--remote); }
-  .tag.hybrid { color: var(--hybrid); border-color: var(--hybrid); }
-  .details { margin-top: 10px; font-size: 0.85rem; color: var(--muted); }
-  .apply {
-    display: inline-block;
-    margin-top: 12px;
-    color: var(--accent);
-    text-decoration: none;
-    font-size: 0.9rem;
-    font-weight: 500;
-  }
-  .apply:hover { text-decoration: underline; }
-  .empty { color: var(--muted); padding: 40px 0; text-align: center; }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Job Digest</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    :root {
+      --bg: #07080d;
+      --card-bg: rgba(16, 18, 27, 0.4);
+      --card-border: rgba(255, 255, 255, 0.05);
+      --card-border-hover: rgba(99, 102, 241, 0.2);
+      --text-main: #f3f4f6;
+      --text-muted: #9ca3af;
+      --accent: #6366f1;
+      --accent-glow: rgba(99, 102, 241, 0.15);
+      --remote: #10b981;
+      --hybrid: #f59e0b;
+      --onsite: #06b6d4;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 60px 24px 100px;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Ambient Background Glows */
+    body::before {
+      content: "";
+      position: fixed;
+      top: -150px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 800px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(99, 102, 241, 0.06) 0%, rgba(168, 85, 247, 0.02) 50%, transparent 100%);
+      z-index: -1;
+      pointer-events: none;
+      filter: blur(80px);
+    }
+
+    body::after {
+      content: "";
+      position: fixed;
+      bottom: -100px;
+      left: 10%;
+      width: 400px;
+      height: 400px;
+      background: radial-gradient(circle, rgba(16, 185, 129, 0.02) 0%, transparent 80%);
+      z-index: -1;
+      pointer-events: none;
+      filter: blur(60px);
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+
+    /* Header Section */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      padding-bottom: 24px;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .brand-title {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 2.2rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      background: linear-gradient(135deg, #ffffff 0%, #a5b4fc 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-title svg,
+    .brand-title i {
+      color: var(--accent);
+      filter: drop-shadow(0 0 8px var(--accent));
+      -webkit-text-fill-color: initial;
+    }
+
+    .brand-tagline {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      font-weight: 400;
+    }
+
+    .meta-badge {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 99px;
+      padding: 6px 14px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .meta-badge span.pulse {
+      width: 8px;
+      height: 8px;
+      background-color: var(--remote);
+      border-radius: 50%;
+      display: inline-block;
+      box-shadow: 0 0 8px var(--remote);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4); }
+      70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }
+      100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+    }
+
+    /* Controls (Search & Filter) */
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .search-wrapper {
+      position: relative;
+      width: 100%;
+    }
+
+    .search-wrapper svg,
+    .search-wrapper i {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    .search-input {
+      width: 100%;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 14px;
+      padding: 16px 16px 16px 48px;
+      color: var(--text-main);
+      font-size: 0.95rem;
+      font-family: inherit;
+      outline: none;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+      background: rgba(255, 255, 255, 0.04);
+      box-shadow: 0 0 20px rgba(99, 102, 241, 0.08);
+    }
+
+    .filters {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: none; /* Hide scrollbar for Firefox */
+    }
+
+    .filters::-webkit-scrollbar {
+      display: none; /* Hide scrollbar for Chrome/Safari */
+    }
+
+    .filter-btn {
+      background: transparent;
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      color: var(--text-muted);
+      padding: 8px 18px;
+      border-radius: 99px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn:hover {
+      color: var(--text-main);
+      border-color: rgba(255, 255, 255, 0.15);
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      color: #ffffff;
+      border-color: var(--accent);
+      box-shadow: 0 0 16px var(--accent-glow);
+    }
+
+    /* Jobs Grid */
+    .jobs-list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .job-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      backdrop-filter: blur(12px);
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      animation: fadeInUp 0.5s ease-out forwards;
+      opacity: 0;
+    }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(16px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .job-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--card-border-hover);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2), 0 0 20px rgba(99, 102, 241, 0.02);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 16px;
+    }
+
+    .job-title-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .job-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: var(--text-main);
+      line-height: 1.4;
+    }
+
+    .company-name {
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: var(--accent);
+    }
+
+    .salary-badge {
+      background: rgba(99, 102, 241, 0.05);
+      border: 1px solid rgba(99, 102, 241, 0.1);
+      color: #a5b4fc;
+      border-radius: 8px;
+      padding: 6px 12px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+    }
+
+    /* Tags */
+    .tag-container {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .badge {
+      font-size: 0.75rem;
+      font-weight: 500;
+      padding: 4px 10px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .badge svg,
+    .badge i {
+      width: 13px;
+      height: 13px;
+    }
+
+    .badge.mode-remote {
+      color: var(--remote);
+      background: rgba(16, 185, 129, 0.03);
+      border-color: rgba(16, 185, 129, 0.12);
+    }
+
+    .badge.mode-hybrid {
+      color: var(--hybrid);
+      background: rgba(245, 158, 11, 0.03);
+      border-color: rgba(245, 158, 11, 0.12);
+    }
+
+    .badge.mode-onsite {
+      color: var(--onsite);
+      background: rgba(6, 182, 212, 0.03);
+      border-color: rgba(6, 182, 212, 0.12);
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid rgba(255, 255, 255, 0.04);
+      padding-top: 16px;
+      margin-top: 8px;
+    }
+
+    .posted-time {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .apply-btn {
+      background: var(--text-main);
+      color: var(--bg);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 8px 18px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .apply-btn:hover {
+      background: #ffffff;
+      transform: translateX(2px);
+      box-shadow: 0 4px 12px rgba(255, 255, 255, 0.15);
+    }
+
+    .empty-state {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 20px;
+      background: rgba(255, 255, 255, 0.01);
+      border: 1px dashed rgba(255, 255, 255, 0.05);
+      border-radius: 16px;
+      text-align: center;
+      gap: 16px;
+    }
+
+    .empty-state svg,
+    .empty-state i {
+      color: var(--text-muted);
+      opacity: 0.5;
+    }
+
+    .empty-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-main);
+    }
+
+    .empty-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      max-width: 320px;
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .jobs-list {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 40px 16px 60px;
+      }
+      header {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 12px;
+      }
+      .brand-title {
+        font-size: 1.8rem;
+      }
+      .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+      }
+      .salary-badge {
+        align-self: flex-start;
+      }
+    }
+  </style>
 </head>
 <body>
-  <div class="wrap">
+
+  <div class="container">
     <header>
-      <h1>Daily Job Digest</h1>
-      <div class="meta" id="meta">Loading...</div>
+      <div class="brand">
+        <h1 class="brand-title"><i data-lucide="sparkles"></i>Job Digest</h1>
+        <p class="brand-tagline">Curated frontend, web dev, and SWE roles for junior-mid developers</p>
+      </div>
+      <div class="meta-badge" id="meta">
+        <span class="pulse"></span> Loading...
+      </div>
     </header>
-    <div id="jobs"></div>
+
+    <main class="controls">
+      <div class="search-wrapper">
+        <i data-lucide="search" size="18"></i>
+        <input type="text" id="search" class="search-input" placeholder="Search title, company, or keywords...">
+      </div>
+
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">All Listings</button>
+        <button class="filter-btn" data-filter="remote">Remote Only</button>
+        <button class="filter-btn" data-filter="india">India-Based</button>
+        <button class="filter-btn" data-filter="emerging">Emerging Startups</button>
+        <button class="filter-btn" data-filter="curated">Known Companies</button>
+      </div>
+    </main>
+
+    <section class="jobs-list" id="jobs-container">
+      <!-- Cards rendered dynamically -->
+    </section>
   </div>
 
   <script>
-    // Adjust this path if your data/jobs.json lives elsewhere relative to this page
+    let allJobs = [];
+    let currentFilter = 'all';
+    let searchQuery = '';
+
+    const container = document.getElementById('jobs-container');
+    const searchInput = document.getElementById('search');
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    const metaContainer = document.getElementById('meta');
+
+    // Fetch and Initialize
     fetch("./data/jobs.json")
       .then(r => r.json())
       .then(data => {
-        const meta = document.getElementById("meta");
-        const container = document.getElementById("jobs");
-
-        if (data.generated_at) {
-          const d = new Date(data.generated_at);
-          meta.textContent = `Updated ${d.toLocaleString()} · ${data.count} job(s)`;
-        } else {
-          meta.textContent = "No data yet — trigger the daily workflow once to populate this.";
-        }
-
-        if (!data.jobs || data.jobs.length === 0) {
-          container.innerHTML = '<div class="empty">No matching jobs today. Check back tomorrow.</div>';
-          return;
-        }
-
-        container.innerHTML = data.jobs.map(job => `
-          <div class="job">
-            <div class="job-top">
-              <h3 class="title">${job.title} — <span class="company">${job.company}</span></h3>
-            </div>
-            <div class="tags">
-              <span class="tag ${job.work_mode === 'Remote' ? 'remote' : job.work_mode === 'Hybrid' ? 'hybrid' : ''}">${job.work_mode}</span>
-              <span class="tag">${job.location}</span>
-              <span class="tag">${job.source}</span>
-              <span class="tag">Posted ${job.posted}</span>
-            </div>
-            <div class="details">Salary: ${job.salary}</div>
-            <a class="apply" href="${job.apply_url}" target="_blank" rel="noopener">Apply →</a>
-          </div>
-        `).join("");
+        allJobs = data.jobs || [];
+        updateMetadata(data.generated_at, allJobs.length);
+        renderJobs();
+        lucide.createIcons(); // Initialize icons initially
       })
       .catch(err => {
-        document.getElementById("meta").textContent = "Couldn't load jobs.json — " + err;
+        metaContainer.innerHTML = `<i data-lucide="alert-circle" style="color:red;"></i> Fetch failed`;
+        container.innerHTML = `<div class="empty-state">
+          <i data-lucide="alert-circle" size="40"></i>
+          <p class="empty-title">Error Loading Jobs</p>
+          <p class="empty-desc">${err.message}</p>
+        </div>`;
+        lucide.createIcons();
       });
+
+    // Update Header Meta
+    function updateMetadata(generatedAt, count) {
+      if (generatedAt) {
+        const d = new Date(generatedAt);
+        const relativeFormat = d.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        metaContainer.innerHTML = `<span class="pulse"></span> Updated ${relativeFormat} · ${count} roles`;
+      } else {
+        metaContainer.innerHTML = `<span class="pulse" style="background-color: var(--hybrid);"></span> No data populated`;
+      }
+    }
+
+    // Filter and Render Logic
+    function renderJobs() {
+      const filtered = allJobs.filter(job => {
+        // Search filter
+        const matchesSearch = 
+          job.title.toLowerCase().includes(searchQuery) ||
+          job.company.toLowerCase().includes(searchQuery) ||
+          job.location.toLowerCase().includes(searchQuery) ||
+          job.source.toLowerCase().includes(searchQuery);
+
+        if (!matchesSearch) return false;
+
+        // Category Filter
+        if (currentFilter === 'all') return true;
+        if (currentFilter === 'remote') return job.work_mode.toLowerCase() === 'remote';
+        if (currentFilter === 'india') {
+          const loc = job.location.toLowerCase();
+          return loc.includes('india') || loc.includes('bangalore') || loc.includes('bengaluru') || loc.includes('pune') || loc.includes('mumbai') || loc.includes('hyderabad') || loc.includes('gurgaon') || loc.includes('noida') || loc.includes('delhi');
+        }
+        if (currentFilter === 'emerging') return job.source.toLowerCase() === 'remoteok';
+        if (currentFilter === 'curated') return job.source.toLowerCase() !== 'remoteok';
+
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = `<div class="empty-state">
+          <i data-lucide="inbox" size="48"></i>
+          <p class="empty-title">No matching roles found</p>
+          <p class="empty-desc">Try clearing your filters or checking back tomorrow for fresh listings.</p>
+        </div>`;
+        lucide.createIcons();
+        return;
+      }
+
+      container.innerHTML = filtered.map((job, idx) => {
+        const isRemote = job.work_mode === 'Remote';
+        const isHybrid = job.work_mode === 'Hybrid';
+        const isOnsite = job.work_mode === 'On-site';
+        const modeClass = isRemote ? 'mode-remote' : isHybrid ? 'mode-hybrid' : 'mode-onsite';
+        const modeIcon = isRemote ? 'wifi' : isHybrid ? 'briefcase' : 'map-pin';
+
+        // Add subtle animation delay for staggering card loads
+        const animationDelay = `${idx * 0.05}s`;
+
+        return `
+          <div class="job-card" style="animation-delay: ${animationDelay}">
+            <div class="card-header">
+              <div class="job-title-group">
+                <h2 class="job-title">${escapeHtml(job.title)}</h2>
+                <span class="company-name">${escapeHtml(job.company)}</span>
+              </div>
+              <div class="salary-badge">
+                <i data-lucide="banknote" size="14"></i>
+                <span>${escapeHtml(job.salary)}</span>
+              </div>
+            </div>
+
+            <div class="tag-container">
+              <span class="badge ${modeClass}">
+                <i data-lucide="${modeIcon}"></i>
+                <span>${job.work_mode}</span>
+              </span>
+              <span class="badge">
+                <i data-lucide="globe"></i>
+                <span>${escapeHtml(job.location)}</span>
+              </span>
+              <span class="badge">
+                <i data-lucide="layers"></i>
+                <span>via ${escapeHtml(job.source)}</span>
+              </span>
+            </div>
+
+            <div class="card-footer">
+              <span class="posted-time">
+                <i data-lucide="calendar" size="14"></i>
+                <span>Posted ${escapeHtml(job.posted)}</span>
+              </span>
+              <a href="${job.apply_url}" target="_blank" rel="noopener" class="apply-btn">
+                <span>Apply</span>
+                <i data-lucide="external-link" size="14"></i>
+              </a>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      // Refresh Lucide Icons for new nodes
+      lucide.createIcons();
+    }
+
+    // Helper to prevent HTML injection
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+    }
+
+    // Event Listeners
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value.toLowerCase().trim();
+      renderJobs();
+    });
+
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        filterButtons.forEach(btn => btn.classList.remove('active'));
+        button.classList.add('active');
+        currentFilter = button.getAttribute('data-filter');
+        renderJobs();
+      });
+    });
   </script>
 </body>
 </html>
