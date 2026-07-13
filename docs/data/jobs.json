@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:42:30.915459+00:00",
-  "count": 5,
+  "generated_at": "2026-07-13T05:28:27.956413+00:00",
+  "count": 10,
   "jobs": [
     {
       "title": "Software Engineer 3",
@@ -11,16 +11,6 @@
       "posted": "2026-07-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
-    {
-      "title": "Software Engineer (Fullstack, frontend-heavy), Integrations",
-      "company": "Postman",
-      "location": "Bengaluru, Karnataka, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-10",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7799606003"
     },
     {
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -51,6 +41,66 @@
       "posted": "2026-07-10",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
+    },
+    {
+      "title": "Technical Account Manager 2 - EMEA",
+      "company": "Datadog",
+      "location": "Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7862489/?gh_jid=7862489"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Okta",
+      "location": "Paris, France",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8050718?gh_jid=8050718"
+    },
+    {
+      "title": "Regional Alliances Manager - Asia",
+      "company": "Okta",
+      "location": "Singapore",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8050396?gh_jid=8050396"
+    },
+    {
+      "title": "AI Research Engineer",
+      "company": "PostHog",
+      "location": "Hybrid (UK)",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-07",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3"
+    },
+    {
+      "title": "Illustrator",
+      "company": "Zebomba Games",
+      "location": "Linn County, ",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-10",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-illustrator-zebomba-games-1134735"
+    },
+    {
+      "title": "Interface Designer",
+      "company": "Grow the Roses",
+      "location": "Only, ",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-12",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742"
     }
   ]
 }
