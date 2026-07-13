@@ -3,7 +3,7 @@
 Pulls fresh (≤7 day old) job listings matching your preferences — web dev / SWE / frontend /
 UI-UX roles, ~1 year experience, remote-first (hybrid if salary justifies the city), 10+ LPA —
 from company career pages (Greenhouse, Lever, Ashby) and RemoteOK, filters + dedupes + ranks
-them, and writes the top 5 to `data/jobs.json` once a day via GitHub Actions.
+them, and writes the top 10 to `docs/data/jobs.json` once a day via GitHub Actions.
 
 **Sources deliberately excluded:** LinkedIn and Naukri. Both block/prohibit automated scraping
 in their Terms of Service — including them would risk your account and isn't something I'll
@@ -35,7 +35,7 @@ build. This pulls only from sources with genuinely public, allowed access.
    - Add as many companies as you like — this list doubles as your "good company" ranking
      boost, so the more you curate, the better matches you'll surface first.
 
-3. **Enable GitHub Pages**: repo Settings → Pages → Deploy from branch → `main` → `/site` (or
+3. **Enable GitHub Pages**: repo Settings → Pages → Deploy from branch → `main` → `/docs` (or
    `/root` if you restructure). Your page will be live at
    `https://<your-username>.github.io/<repo-name>/`.
 
@@ -60,7 +60,7 @@ before pushing.
 - **Salary**: best-effort text extraction (₹/LPA/lakh patterns). If no salary is stated — common
   in Indian postings — the job is kept rather than dropped, tagged "Not disclosed" so you can
   judge for yourself.
-- **Dedup**: fuzzy title-matching within the same company, so reposts don't eat your daily 5.
+- **Dedup**: fuzzy title-matching within the same company, so reposts don't eat your daily 10.
 - **Ranking**: curated companies first → remote before hybrid → most recent first.
 
 ## Honest limitations
@@ -69,8 +69,8 @@ before pushing.
   pattern as the existing ones).
 - Salary detection is text-pattern matching, not guaranteed — many listings simply don't state
   pay, and that can't be fixed by scraping harder.
-- "5 jobs/day" is a target, not a guarantee — on quiet days, fewer genuinely fresh + matching
-  postings may exist. The script won't pad the list with stale or irrelevant jobs to hit 5.
+- "10 jobs/day" is a target, not a guarantee — on quiet days, fewer genuinely fresh + matching
+  postings may exist. The script won't pad the list with stale or irrelevant jobs to hit 10.
 - I could not live-test the actual API calls from my current environment (network-restricted
   sandbox), so I validated the filtering/ranking logic against realistic sample data instead.
   Test the real fetch calls yourself after your first push — if a specific company's token is

@@ -25,7 +25,7 @@ COMPANIES_FILE = os.path.join(SCRIPT_DIR, "companies.json")
 OUTPUT_FILE = os.path.join(SCRIPT_DIR, "..", "docs", "data", "jobs.json")
 
 MAX_AGE_DAYS = 7          # "up to a week old" per your preference
-TOP_N = 5                 # daily digest size
+TOP_N = 10                # daily digest size
 MIN_SALARY_LPA = 10.0
 
 
@@ -97,8 +97,29 @@ def main():
     filtered = filters.dedup(filtered)
     print(f"[main] after dedup: {len(filtered)}")
 
-    ranked = filters.rank(filtered, curated_names)
-    top_jobs = ranked[:TOP_N]
+    # Split into curated (known) and emerging (non-curated)
+    curated_jobs = [j for j in filtered if j["company"].lower() in curated_names]
+    emerging_jobs = [j for j in filtered if j["company"].lower() not in curated_names]
+
+    # Rank both lists separately
+    ranked_curated = filters.rank(curated_jobs, curated_names)
+    ranked_emerging = filters.rank(emerging_jobs, curated_names)
+
+    # We want a mix: up to 5 curated and up to 5 emerging startup jobs.
+    # If one list has fewer than 5, backfill from the other to achieve TOP_N (10).
+    target_curated = TOP_N // 2
+    target_emerging = TOP_N - target_curated
+
+    if len(ranked_curated) < target_curated:
+        target_emerging += (target_curated - len(ranked_curated))
+    if len(ranked_emerging) < target_emerging:
+        target_curated += (target_emerging - len(ranked_emerging))
+
+    top_curated = ranked_curated[:target_curated]
+    top_emerging = ranked_emerging[:target_emerging]
+
+    # Combine and sort the final result (known/curated first, then emerging)
+    top_jobs = filters.rank(top_curated + top_emerging, curated_names)
 
     # Clean up internal-only fields before writing output
     output_jobs = []
