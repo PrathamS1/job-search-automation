@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:14:21.265852+00:00",
+  "generated_at": "2026-07-15T05:15:05.299123+00:00",
   "count": 10,
   "jobs": [
     {
@@ -33,16 +33,6 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
     {
-      "title": "Solutions Architect",
-      "company": "Vercel",
-      "location": "Remote - United Kingdom, Germany",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-07",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
-    },
-    {
       "title": "Enterprise Account Executive, Okta",
       "company": "Okta",
       "location": "Tokyo, Japan",
@@ -58,9 +48,29 @@
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-13",
+      "posted": "2026-07-14",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
+    },
+    {
+      "title": "Account Executive Large Enterprise - DACH",
+      "company": "Okta",
+      "location": "Germany",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-13",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7899469?gh_jid=7899469"
+    },
+    {
+      "title": "Customer First GEO Content Specialist",
+      "company": "Okta",
+      "location": "Toronto, Ontario, Canada",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-13",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
     },
     {
       "title": "Illustrator",
@@ -81,16 +91,6 @@
       "posted": "2026-07-11",
       "source": "RemoteOK",
       "apply_url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780"
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Grow the Roses",
-      "location": "Only, ",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-12",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-grow-the-roses-1134778"
     },
     {
       "title": "Interface Designer",
