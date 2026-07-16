@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T05:15:05.299123+00:00",
+  "generated_at": "2026-07-16T05:24:59.036222+00:00",
   "count": 10,
   "jobs": [
     {
@@ -8,7 +8,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-08",
+      "posted": "2026-07-15",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -18,9 +18,19 @@
       "location": "Home based - Worldwide",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-13",
+      "posted": "2026-07-15",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8055009"
+    },
+    {
+      "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
+      "company": "Canonical",
+      "location": "Home Based - APAC",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-15",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -43,44 +53,34 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7988357?gh_jid=7988357"
     },
     {
-      "title": "Frontend Software Engineer ",
-      "company": "Twilio",
-      "location": "Remote - United Kingdom",
+      "title": "Associate Linux Support Engineer",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
       "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-15",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6448444"
+    },
+    {
+      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-15",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "aion",
+      "location": "New York, New York, New York, United States",
+      "work_mode": "On-site",
       "salary": "Not disclosed",
       "posted": "2026-07-14",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
-    },
-    {
-      "title": "Account Executive Large Enterprise - DACH",
-      "company": "Okta",
-      "location": "Germany",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-13",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7899469?gh_jid=7899469"
-    },
-    {
-      "title": "Customer First GEO Content Specialist",
-      "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-13",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
-    },
-    {
-      "title": "Illustrator",
-      "company": "Zebomba Games",
-      "location": "Linn County, ",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-10",
       "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-illustrator-zebomba-games-1134735"
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-aion-1134877"
     },
     {
       "title": "UX UI Designer",
