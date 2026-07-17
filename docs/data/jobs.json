@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T05:24:59.036222+00:00",
+  "generated_at": "2026-07-17T05:26:46.617887+00:00",
   "count": 10,
   "jobs": [
     {
@@ -8,7 +8,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-15",
+      "posted": "2026-07-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -18,9 +18,9 @@
       "location": "Home based - Worldwide",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-15",
+      "posted": "2026-07-16",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8055009"
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7957239"
     },
     {
       "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
@@ -28,7 +28,7 @@
       "location": "Home Based - APAC",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-15",
+      "posted": "2026-07-16",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
     },
@@ -58,7 +58,7 @@
       "location": "Home based - Worldwide",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-15",
+      "posted": "2026-07-16",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6448444"
     },
@@ -68,9 +68,19 @@
       "location": "Home based - EMEA",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-15",
+      "posted": "2026-07-16",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
+    },
+    {
+      "title": "Partner Sales Manager - Dell",
+      "company": "Canonical",
+      "location": "Home Based - Americas; Home Based - APAC",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-16",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6173361"
     },
     {
       "title": "Social Media Manager",
@@ -83,24 +93,14 @@
       "apply_url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-aion-1134877"
     },
     {
-      "title": "UX UI Designer",
-      "company": "Palerto Studio",
-      "location": "Washington County, ",
+      "title": "Proposal &amp; Business Development Specialist",
+      "company": "Pubgenius Inc.",
+      "location": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-11",
+      "posted": "2026-07-14",
       "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780"
-    },
-    {
-      "title": "Interface Designer",
-      "company": "Grow the Roses",
-      "location": "Only, ",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-12",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742"
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-proposal-amp-business-development-specialist-pubgenius-inc-1134924"
     }
   ]
 }
