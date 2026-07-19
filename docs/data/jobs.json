@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:11:49.435289+00:00",
+  "generated_at": "2026-07-19T05:36:55.088614+00:00",
   "count": 10,
   "jobs": [
     {
@@ -83,24 +83,24 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6173361"
     },
     {
-      "title": "Social Media Manager",
-      "company": "aion",
-      "location": "New York, New York, New York, United States",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-07-14",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-aion-1134877"
-    },
-    {
-      "title": "Proposal &amp; Business Development Specialist",
-      "company": "Pubgenius Inc.",
-      "location": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
+      "title": "Partner Sales Manager - IHV Alliances",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-14",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-proposal-amp-business-development-specialist-pubgenius-inc-1134924"
+      "posted": "2026-07-16",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6950219"
+    },
+    {
+      "title": "UX Designer - Design systems",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-16",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7043028"
     }
   ]
 }
