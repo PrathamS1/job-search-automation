@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-21T05:35:49.129378+00:00",
+  "generated_at": "2026-07-22T05:34:24.829657+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
       "company": "Canonical",
@@ -20,7 +10,7 @@
       "salary": "Not disclosed",
       "posted": "2026-07-16",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8055009"
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7957239"
     },
     {
       "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
@@ -31,6 +21,16 @@
       "posted": "2026-07-16",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
+    },
+    {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
       "title": "Associate Linux Support Engineer",
@@ -53,46 +53,6 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
     },
     {
-      "title": "Partner Sales Manager - Dell",
-      "company": "Canonical",
-      "location": "Home Based - Americas; Home Based - APAC",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6173361"
-    },
-    {
-      "title": "Partner Sales Manager - IHV Alliances",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6950219"
-    },
-    {
-      "title": "UX Designer - Design systems",
-      "company": "Canonical",
-      "location": "Home based - EMEA",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7043028"
-    },
-    {
-      "title": "UX Designer - Developer experience",
-      "company": "Canonical",
-      "location": "Home based - EMEA",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7043026"
-    },
-    {
       "title": "Graphic Designer",
       "company": "DOSED",
       "location": "Time, ",
@@ -101,6 +61,46 @@
       "posted": "2026-07-18",
       "source": "RemoteOK",
       "apply_url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046"
+    },
+    {
+      "title": "Don't see an open position you'd like fill",
+      "company": "DBOS, Inc.",
+      "location": "Cambridge, ",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-20",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-dont-see-an-open-position-youd-like-fill-dbos-inc-1135102"
+    },
+    {
+      "title": "MyBuilder",
+      "company": "Mr Pape",
+      "location": "Penzance, ",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-20",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-mybuilder-mr-pape-1135122"
+    },
+    {
+      "title": "Freenow",
+      "company": "Mr Pape",
+      "location": "Tilhar, ",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-20",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-freenow-mr-pape-1135140"
+    },
+    {
+      "title": "Papaya",
+      "company": "Mr Pape",
+      "location": "Swing Bridge, ",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-20",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-papaya-mr-pape-1135083"
     }
   ]
 }
