@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-07-23T05:39:11.842823+00:00",
+  "generated_at": "2026-07-24T05:35:37.918271+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7957239"
-    },
-    {
-      "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
-      "company": "Canonical",
-      "location": "Home Based - APAC",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
-    },
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
@@ -33,24 +13,64 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
-      "title": "Associate Linux Support Engineer",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
+      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
       "salary": "Not disclosed",
-      "posted": "2026-07-16",
+      "posted": "2026-07-24",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6448444"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
-      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
-      "company": "Canonical",
-      "location": "Home based - EMEA",
+      "title": "Solutions Architect",
+      "company": "Vercel",
+      "location": "Remote - Australia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-16",
+      "posted": "2026-07-22",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5804110004"
+    },
+    {
+      "title": "Frontend Software Engineer ",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-23",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
+    },
+    {
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-21",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+    },
+    {
+      "title": "Okta on Okta Identity Architect",
+      "company": "Okta",
+      "location": "Sydney, Australia",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8042985?gh_jid=8042985"
+    },
+    {
+      "title": "Developer Marketer",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-20",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/068ba58d-0143-4263-b83a-7b389c4d77e6"
     },
     {
       "title": "Technical Crew",
@@ -63,44 +83,24 @@
       "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-crew-everest-group-maritime-services-amp-ship-supplies-1135231"
     },
     {
-      "title": "Don't see an open position you'd like fill",
-      "company": "DBOS, Inc.",
-      "location": "Cambridge, ",
+      "title": "Junior Designer",
+      "company": "\u00f0\u009d\u0097\u00a9 \u00f0\u009d\u0097\u009c \u00f0\u009d\u0097\u00a5 \u00f0\u009d\u0097\u00a7 \u00f0\u009d\u0097\u00a5 \u00f0\u009d\u0097\u009c \u00f0\u009d\u0097\u00a2",
+      "location": "Time, ",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-20",
+      "posted": "2026-07-21",
       "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-dont-see-an-open-position-youd-like-fill-dbos-inc-1135102"
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327"
     },
     {
-      "title": "MyBuilder",
-      "company": "Mr Pape",
-      "location": "Penzance, ",
-      "work_mode": "Hybrid",
+      "title": "UX DESIGNER",
+      "company": "Qaledon by Caledonia Financial Group",
+      "location": "Greater Edinburgh Area, ",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-20",
+      "posted": "2026-07-22",
       "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-mybuilder-mr-pape-1135122"
-    },
-    {
-      "title": "Freenow",
-      "company": "Mr Pape",
-      "location": "Tilhar, ",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-20",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-freenow-mr-pape-1135140"
-    },
-    {
-      "title": "Papaya",
-      "company": "Mr Pape",
-      "location": "Swing Bridge, ",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-20",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-papaya-mr-pape-1135083"
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227"
     }
   ]
 }
