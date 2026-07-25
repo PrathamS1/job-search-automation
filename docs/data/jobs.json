@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T05:35:37.918271+00:00",
+  "generated_at": "2026-07-25T05:28:53.325675+00:00",
   "count": 10,
   "jobs": [
     {
@@ -33,12 +33,22 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5804110004"
     },
     {
+      "title": "Regional Alliances Manager - Germany",
+      "company": "Okta",
+      "location": "Germany",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-24",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7606676?gh_jid=7606676"
+    },
+    {
       "title": "Frontend Software Engineer ",
       "company": "Twilio",
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-23",
+      "posted": "2026-07-24",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     },
@@ -73,24 +83,14 @@
       "apply_url": "https://jobs.ashbyhq.com/posthog/068ba58d-0143-4263-b83a-7b389c4d77e6"
     },
     {
-      "title": "Technical Crew",
-      "company": "EVEREST GROUP - MARITIME SERVICES &amp; SHIP SUPPLIES",
-      "location": "Vijayawada East, ",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-07-21",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-crew-everest-group-maritime-services-amp-ship-supplies-1135231"
-    },
-    {
-      "title": "Junior Designer",
-      "company": "\u00f0\u009d\u0097\u00a9 \u00f0\u009d\u0097\u009c \u00f0\u009d\u0097\u00a5 \u00f0\u009d\u0097\u00a7 \u00f0\u009d\u0097\u00a5 \u00f0\u009d\u0097\u009c \u00f0\u009d\u0097\u00a2",
-      "location": "Time, ",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "company": "Elastic",
+      "location": "Portugal",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-21",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327"
+      "posted": "2026-07-22",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8080260&gh_jid=8080260"
     },
     {
       "title": "UX DESIGNER",
