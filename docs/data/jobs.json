@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:45:41.514086+00:00",
+  "generated_at": "2026-07-27T06:04:27.560354+00:00",
   "count": 10,
   "jobs": [
     {
@@ -8,7 +8,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-21",
+      "posted": "2026-07-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -83,24 +83,24 @@
       "apply_url": "https://jobs.ashbyhq.com/posthog/068ba58d-0143-4263-b83a-7b389c4d77e6"
     },
     {
-      "title": "Software Engineer II - Full Stack - Web Engineering",
-      "company": "Elastic",
-      "location": "Portugal",
+      "title": "Content Creator DAZN",
+      "company": "DAZN",
+      "location": "Forest Home, Forest Home, New York, United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-22",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8080260&gh_jid=8080260"
+      "posted": "2026-07-24",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-content-creator-dazn-dazn-1135444"
     },
     {
-      "title": "Federal Sales Development Representative - Arlington, VA ",
-      "company": "Elastic",
-      "location": "Arlington, VA",
+      "title": "Technical Recruiter 2026 New Graduate",
+      "company": "Radiant Industries",
+      "location": "El Segundo",
       "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-23",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8065898&gh_jid=8065898"
+      "salary": "$35 - $35 (USD, RemoteOK)",
+      "posted": "2026-07-26",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-recruiter-2026-new-graduate-radiant-industries-1135414"
     }
   ]
 }
