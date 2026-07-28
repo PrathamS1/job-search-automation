@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:04:27.560354+00:00",
+  "generated_at": "2026-07-28T05:31:03.302403+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,6 +23,16 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
+      "title": "SDE I",
+      "company": "Hevo Data",
+      "location": "Bangalore, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-07-27",
+      "source": "Lever",
+      "apply_url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a"
+    },
+    {
       "title": "Solutions Architect",
       "company": "Vercel",
       "location": "Remote - Australia",
@@ -43,12 +53,22 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7606676?gh_jid=7606676"
     },
     {
+      "title": "Okta on Okta Identity Architect",
+      "company": "Okta",
+      "location": "Dublin, Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-27",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
+    },
+    {
       "title": "Frontend Software Engineer ",
       "company": "Twilio",
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-24",
+      "posted": "2026-07-27",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     },
@@ -61,26 +81,6 @@
       "posted": "2026-07-21",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Sydney, Australia",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8042985?gh_jid=8042985"
-    },
-    {
-      "title": "Developer Marketer",
-      "company": "PostHog",
-      "location": "Remote",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-20",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/posthog/068ba58d-0143-4263-b83a-7b389c4d77e6"
     },
     {
       "title": "Content Creator DAZN",
