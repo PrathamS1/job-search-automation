@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T05:31:03.302403+00:00",
+  "generated_at": "2026-07-29T05:36:59.164110+00:00",
   "count": 10,
   "jobs": [
     {
@@ -11,6 +11,36 @@
       "posted": "2026-07-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
+      "title": "Payroll Analyst GEO (EMEA)",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8022430&gh_jid=8022430"
+    },
+    {
+      "title": "Sr Analyst, FP&A",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
+    },
+    {
+      "title": "Sr Analyst Payroll, APJ",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8028990&gh_jid=8028990"
     },
     {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
@@ -43,16 +73,6 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5804110004"
     },
     {
-      "title": "Regional Alliances Manager - Germany",
-      "company": "Okta",
-      "location": "Germany",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7606676?gh_jid=7606676"
-    },
-    {
       "title": "Okta on Okta Identity Architect",
       "company": "Okta",
       "location": "Dublin, Ireland",
@@ -63,44 +83,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
     },
     {
-      "title": "Frontend Software Engineer ",
-      "company": "Twilio",
-      "location": "Remote - United Kingdom",
+      "title": "Technical Account Manager 2 - South Africa",
+      "company": "Datadog",
+      "location": "South Africa, Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "Brand Hackers",
+      "location": "London Area, London Area, United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-07-27",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
-    },
-    {
-      "title": "Technical Account Manager 2 - Boston",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-21",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Content Creator DAZN",
-      "company": "DAZN",
-      "location": "Forest Home, Forest Home, New York, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-24",
       "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-content-creator-dazn-dazn-1135444"
-    },
-    {
-      "title": "Technical Recruiter 2026 New Graduate",
-      "company": "Radiant Industries",
-      "location": "El Segundo",
-      "work_mode": "Remote",
-      "salary": "$35 - $35 (USD, RemoteOK)",
-      "posted": "2026-07-26",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-recruiter-2026-new-graduate-radiant-industries-1135414"
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-brand-hackers-1135514"
     }
   ]
 }
