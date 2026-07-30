@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-07-29T05:36:59.164110+00:00",
+  "generated_at": "2026-07-30T05:24:02.810764+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-27",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Payroll Analyst GEO (EMEA)",
       "company": "Elastic",
@@ -33,14 +23,14 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
-      "title": "Sr Analyst Payroll, APJ",
-      "company": "Elastic",
-      "location": "Bangalore, India",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-28",
+      "posted": "2026-07-29",
       "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8028990&gh_jid=8028990"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
@@ -63,16 +53,6 @@
       "apply_url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a"
     },
     {
-      "title": "Solutions Architect",
-      "company": "Vercel",
-      "location": "Remote - Australia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-22",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5804110004"
-    },
-    {
       "title": "Okta on Okta Identity Architect",
       "company": "Okta",
       "location": "Dublin, Ireland",
@@ -91,6 +71,26 @@
       "posted": "2026-07-28",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
+    },
+    {
+      "title": "Frontend Software Engineer ",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-29",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "Datadog",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     },
     {
       "title": "Junior Graphic Designer",
