@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T05:24:02.810764+00:00",
+  "generated_at": "2026-07-31T05:50:18.124332+00:00",
   "count": 10,
   "jobs": [
     {
@@ -33,6 +33,16 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
+      "title": "Engineering Architect  - DX/AX/UX",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-30",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
+    },
+    {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -53,16 +63,6 @@
       "apply_url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a"
     },
     {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-27",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
-    },
-    {
       "title": "Technical Account Manager 2 - South Africa",
       "company": "Datadog",
       "location": "South Africa, Remote",
@@ -78,29 +78,29 @@
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-29",
+      "posted": "2026-07-30",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     },
     {
-      "title": "Technical Account Manager",
+      "title": "Technical Account Manager 2 - Boston",
       "company": "Datadog",
-      "location": "Tokyo, Japan",
+      "location": "Boston, Massachusetts, USA",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
       "posted": "2026-07-28",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     },
     {
-      "title": "Junior Graphic Designer",
-      "company": "Brand Hackers",
-      "location": "London Area, London Area, United Kingdom",
-      "work_mode": "Remote",
+      "title": "Technical Account Manager 3 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-07-27",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-brand-hackers-1135514"
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
