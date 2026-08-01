@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:50:18.124332+00:00",
+  "generated_at": "2026-08-01T05:40:56.404335+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,34 +23,14 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-29",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
-    {
       "title": "Engineering Architect  - DX/AX/UX",
       "company": "Okta",
       "location": "Bengaluru, India",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
-    },
-    {
-      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-07-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
       "title": "SDE I",
@@ -63,6 +43,16 @@
       "apply_url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a"
     },
     {
+      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-07-31",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
+    },
+    {
       "title": "Technical Account Manager 2 - South Africa",
       "company": "Datadog",
       "location": "South Africa, Remote",
@@ -73,12 +63,32 @@
       "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
     },
     {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-31",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
+    },
+    {
+      "title": "Okta on Okta Identity Architect",
+      "company": "Okta",
+      "location": "Dublin, Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-31",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
+    },
+    {
       "title": "Frontend Software Engineer ",
       "company": "Twilio",
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     },
@@ -91,16 +101,6 @@
       "posted": "2026-07-28",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Technical Account Manager 3 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-28",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
