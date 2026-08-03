@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-08-02T05:41:27.347412+00:00",
+  "generated_at": "2026-08-03T05:57:21.828307+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Payroll Analyst GEO (EMEA)",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-28",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8022430&gh_jid=8022430"
-    },
     {
       "title": "Sr Analyst, FP&A",
       "company": "Elastic",
@@ -91,6 +81,16 @@
       "posted": "2026-07-31",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
+    },
+    {
+      "title": "Junior UI UX Designer",
+      "company": "Marmend",
+      "location": "Tallinn, ",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-07-30",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-ui-ux-designer-marmend-1135902"
     },
     {
       "title": "Product Engineer",
