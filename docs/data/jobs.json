@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T05:57:21.828307+00:00",
+  "generated_at": "2026-08-04T05:31:11.790779+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,6 +13,16 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-03",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
       "title": "Engineering Architect  - DX/AX/UX",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -21,16 +31,6 @@
       "posted": "2026-07-31",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
-    },
-    {
-      "title": "SDE I",
-      "company": "Hevo Data",
-      "location": "Bangalore, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-07-27",
-      "source": "Lever",
-      "apply_url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a"
     },
     {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
@@ -53,44 +53,44 @@
       "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
-    },
-    {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
-    },
-    {
       "title": "Frontend Software Engineer ",
       "company": "Twilio",
       "location": "Remote - United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-31",
+      "posted": "2026-08-03",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
     },
     {
-      "title": "Junior UI UX Designer",
-      "company": "Marmend",
-      "location": "Tallinn, ",
-      "work_mode": "Remote",
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-07-30",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-ui-ux-designer-marmend-1135902"
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+    },
+    {
+      "title": "Technical Account Manager 3 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-28",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
+    },
+    {
+      "title": "Customer First GEO Content Specialist",
+      "company": "Okta",
+      "location": "Toronto, Ontario, Canada",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-07-31",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
     },
     {
       "title": "Product Engineer",
