@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-08-05T05:30:37.276422+00:00",
+  "generated_at": "2026-08-06T05:33:22.280973+00:00",
   "count": 10,
   "jobs": [
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-03",
+      "posted": "2026-08-05",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8055009"
+    },
+    {
+      "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
+      "company": "Canonical",
+      "location": "Home Based - APAC",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-05",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-05",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -33,74 +53,54 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
-      "title": "Frontend Engineer",
-      "company": "Supabase",
-      "location": "Remote",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-29",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01"
-    },
-    {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
+      "posted": "2026-08-05",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
-      "title": "Frontend Software Engineer ",
-      "company": "Twilio",
-      "location": "Remote - United Kingdom",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-04",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608"
-    },
-    {
-      "title": "Customer First GEO Content Specialist",
-      "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Okta",
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
       "location": "Paris, France",
-      "work_mode": "Hybrid",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-31",
+      "posted": "2026-08-05",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8050718?gh_jid=8050718"
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Large Enterprise Account Executive Okta",
-      "company": "Okta",
-      "location": "London, United Kingdom",
-      "work_mode": "Hybrid",
+      "title": "Associate Linux Support Engineer",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-31",
+      "posted": "2026-08-05",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715"
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6448444"
     },
     {
-      "title": "Public Sector Account Executive, Okta",
-      "company": "Okta",
-      "location": "Melbourne, Australia",
-      "work_mode": "Hybrid",
+      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-07-31",
+      "posted": "2026-08-05",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7975472?gh_jid=7975472"
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
+    },
+    {
+      "title": "Jr Frontend Developer",
+      "company": "Tatweer-lb",
+      "location": "London, ",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-05",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124"
     }
   ]
 }
