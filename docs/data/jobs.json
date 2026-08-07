@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T05:33:22.280973+00:00",
+  "generated_at": "2026-08-07T04:36:37.005882+00:00",
   "count": 10,
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Remote - India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-08-06",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
     },
@@ -53,14 +53,14 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "title": "Okta on Okta Identity Architect",
+      "company": "Okta",
+      "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-07-31",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
