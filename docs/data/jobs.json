@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:36:37.005882+00:00",
+  "generated_at": "2026-08-08T03:50:45.070845+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,44 +23,24 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
     },
     {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-06",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-06",
+      "posted": "2026-08-07",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
-    },
-    {
-      "title": "Engineering Architect  - DX/AX/UX",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
-    },
-    {
-      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-07-31",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -93,14 +73,34 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
     },
     {
-      "title": "Jr Frontend Developer",
-      "company": "Tatweer-lb",
-      "location": "London, ",
+      "title": "Partner Sales Manager - Dell",
+      "company": "Canonical",
+      "location": "Home Based - Americas; Home Based - APAC",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-08-05",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124"
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6173361"
+    },
+    {
+      "title": "Partner Sales Manager - IHV Alliances",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-05",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6950219"
+    },
+    {
+      "title": "UX Designer - Design systems",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-05",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7043028"
     }
   ]
 }
