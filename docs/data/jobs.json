@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-08-12T04:22:02.178988+00:00",
+  "generated_at": "2026-08-13T04:25:40.935683+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-05",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8055009"
-    },
-    {
-      "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
-      "company": "Canonical",
-      "location": "Home Based - APAC",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-05",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/5572475"
-    },
     {
       "title": "Sr Analyst, FP&A",
       "company": "Elastic",
@@ -38,7 +18,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-11",
+      "posted": "2026-08-12",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -48,9 +28,19 @@
       "location": "Remote - India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-11",
+      "posted": "2026-08-12",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
+    },
+    {
+      "title": "Account Executive, Commercial",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-06",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -58,49 +48,59 @@
       "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-08-12",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Associate Linux Support Engineer",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
+      "title": "Technical Account Manager 2 - South Africa",
+      "company": "Datadog",
+      "location": "South Africa, Remote",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-08-12",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6448444"
+      "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
     },
     {
-      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
-      "company": "Canonical",
-      "location": "Home based - EMEA",
-      "work_mode": "Remote",
+      "title": "Commercial Renewals Manager",
+      "company": "Okta",
+      "location": "Manila, Philippines",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-08-06",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7334725"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     },
     {
-      "title": "Partner Sales Manager - Dell",
-      "company": "Canonical",
-      "location": "Home Based - Americas; Home Based - APAC",
-      "work_mode": "Remote",
+      "title": "Okta on Okta Identity Architect",
+      "company": "Okta",
+      "location": "Sydney, Australia",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-08-06",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6173361"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8042985?gh_jid=8042985"
     },
     {
-      "title": "Partner Sales Manager - IHV Alliances",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
+      "title": "Account Executive Large Enterprise - DACH",
+      "company": "Okta",
+      "location": "Germany",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-05",
+      "posted": "2026-08-10",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/6950219"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7899469?gh_jid=7899469"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "Datadog",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-08-12",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     }
   ]
 }
