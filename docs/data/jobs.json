@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:25:40.935683+00:00",
+  "generated_at": "2026-08-14T04:22:31.624568+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,34 +13,24 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-12",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
-    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-12",
+      "posted": "2026-08-13",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
     },
     {
-      "title": "Account Executive, Commercial",
-      "company": "Vercel",
-      "location": "Hybrid - London",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-06",
+      "posted": "2026-08-12",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -63,24 +53,14 @@
       "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
     },
     {
-      "title": "Commercial Renewals Manager",
-      "company": "Okta",
-      "location": "Manila, Philippines",
-      "work_mode": "Hybrid",
+      "title": "Account Executive, Commercial",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-06",
+      "posted": "2026-08-13",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
-    },
-    {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Sydney, Australia",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-08-06",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8042985?gh_jid=8042985"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
     },
     {
       "title": "Account Executive Large Enterprise - DACH",
@@ -101,6 +81,26 @@
       "posted": "2026-08-12",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
+    },
+    {
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-08-12",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+    },
+    {
+      "title": "Technical Account Manager 3 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-08-12",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
