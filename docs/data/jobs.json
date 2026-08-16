@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:12:52.922401+00:00",
+  "generated_at": "2026-08-16T03:27:07.672595+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,6 +13,16 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-12",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - India",
@@ -21,16 +31,6 @@
       "posted": "2026-08-14",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
-    },
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-12",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
