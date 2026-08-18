@@ -1,34 +1,14 @@
 {
-  "generated_at": "2026-08-17T03:28:05.959854+00:00",
+  "generated_at": "2026-08-18T03:23:19.973493+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Sr Analyst, FP&A",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-10",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
-    },
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-12",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-14",
+      "posted": "2026-08-17",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
     },
@@ -63,14 +43,14 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
     },
     {
-      "title": "Account Executive Large Enterprise - DACH",
-      "company": "Okta",
-      "location": "Germany",
-      "work_mode": "Hybrid",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-10",
+      "posted": "2026-08-17",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7899469?gh_jid=7899469"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
@@ -98,9 +78,29 @@
       "location": "Tokyo, Japan",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-14",
+      "posted": "2026-08-17",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
+    },
+    {
+      "title": "Full Stack Engineer - KYC Tech (fully remote!)",
+      "company": "Binance",
+      "location": "Asia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-14",
+      "source": "Lever",
+      "apply_url": "https://jobs.lever.co/binance/a91c8c01-cd4f-41af-9a8f-1f3c7041cc64"
+    },
+    {
+      "title": "Manager I, Engineering - Data Visualization Explorations",
+      "company": "Datadog",
+      "location": "New York, New York, USA",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-08-12",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7947742/?gh_jid=7947742"
     }
   ]
 }
