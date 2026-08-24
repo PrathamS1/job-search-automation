@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-08-23T03:29:34.023791+00:00",
+  "generated_at": "2026-08-24T03:31:32.749507+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
@@ -51,6 +41,16 @@
       "posted": "2026-08-20",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
+    },
+    {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Business Development Representative , Startups",
@@ -93,14 +93,14 @@
       "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     },
     {
-      "title": "Technical Account Manager",
-      "company": "Datadog",
-      "location": "Tokyo, Japan",
-      "work_mode": "Hybrid",
+      "title": "AI Research Engineer",
+      "company": "PostHog",
+      "location": "Hybrid (UK)",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-22",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
+      "posted": "2026-08-18",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3"
     }
   ]
 }
