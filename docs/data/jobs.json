@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-08-25T03:26:40.233017+00:00",
+  "generated_at": "2026-08-26T03:33:15.251346+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
       "company": "Canonical",
@@ -23,14 +13,14 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8142329"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - India",
+      "title": "Sr Analyst, FP&A",
+      "company": "Elastic",
+      "location": "Bangalore, India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-24",
+      "posted": "2026-08-25",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -43,16 +33,6 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
     {
-      "title": "Procurement Coordinator ",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-08-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8147737?gh_jid=8147737"
-    },
-    {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -63,14 +43,14 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
-      "title": "Account Executive, Commercial",
-      "company": "Vercel",
-      "location": "Hybrid - London",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-18",
+      "posted": "2026-08-21",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
     },
     {
       "title": "Business Development Representative , Startups",
@@ -101,6 +81,26 @@
       "posted": "2026-08-24",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
+    },
+    {
+      "title": "Okta on Okta Identity Architect",
+      "company": "Okta",
+      "location": "Dublin, Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-24",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Colombia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-24",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     }
   ]
 }
