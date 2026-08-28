@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:59:47.381953+00:00",
+  "generated_at": "2026-08-28T14:31:06.112232+00:00",
   "count": 10,
   "jobs": [
     {
@@ -18,9 +18,19 @@
       "location": "Bangalore, India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-25",
+      "posted": "2026-08-27",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-28",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -45,12 +55,12 @@
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
-      "location": "United States",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-08-21",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Business Development Representative , Startups",
@@ -63,16 +73,6 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
     },
     {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-24",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
       "title": "Okta on Okta Identity Architect",
       "company": "Okta",
       "location": "Dublin, Ireland",
@@ -83,24 +83,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-26",
+      "posted": "2026-08-27",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Technical Account Manager",
-      "company": "Datadog",
-      "location": "Tokyo, Japan",
+      "title": "Commercial Renewals Manager",
+      "company": "Okta",
+      "location": "Manila, Philippines",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
       "posted": "2026-08-24",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     }
   ]
 }
