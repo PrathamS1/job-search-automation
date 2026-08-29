@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:31:06.112232+00:00",
+  "generated_at": "2026-08-29T09:17:39.194305+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,14 +23,14 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - India",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-28",
+      "posted": "2026-08-27",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -53,26 +53,6 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
-    },
-    {
-      "title": "Business Development Representative , Startups",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-21",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
-    },
-    {
       "title": "Okta on Okta Identity Architect",
       "company": "Okta",
       "location": "Dublin, Ireland",
@@ -93,6 +73,16 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Colombia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-28",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+    },
+    {
       "title": "Commercial Renewals Manager",
       "company": "Okta",
       "location": "Manila, Philippines",
@@ -101,6 +91,16 @@
       "posted": "2026-08-24",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+    },
+    {
+      "title": "Customer First GEO Content Specialist",
+      "company": "Okta",
+      "location": "Toronto, Ontario, Canada",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-08-24",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
     }
   ]
 }
