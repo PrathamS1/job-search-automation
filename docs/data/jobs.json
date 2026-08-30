@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:17:39.194305+00:00",
+  "generated_at": "2026-08-30T08:28:32.129249+00:00",
   "count": 10,
   "jobs": [
     {
@@ -31,6 +31,16 @@
       "posted": "2026-08-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-29",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -71,16 +81,6 @@
       "posted": "2026-08-27",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-28",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     },
     {
       "title": "Commercial Renewals Manager",
