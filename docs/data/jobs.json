@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-08-31T08:49:31.079863+00:00",
+  "generated_at": "2026-09-01T07:56:21.022341+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-24",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8142329"
-    },
     {
       "title": "Sr Analyst, FP&A",
       "company": "Elastic",
@@ -38,39 +28,9 @@
       "location": "Remote - India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
-    },
-    {
-      "title": "Engineering Architect  - DX/AX/UX",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-08-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
-    },
-    {
-      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-08-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
-      "title": "Okta on Okta Identity Architect",
-      "company": "Okta",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8088268?gh_jid=8088268"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -83,24 +43,64 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Commercial Renewals Manager",
-      "company": "Okta",
-      "location": "Manila, Philippines",
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-24",
+      "posted": "2026-08-27",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     },
     {
-      "title": "Customer First GEO Content Specialist",
-      "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
+      "title": "Technical Account Manager 3 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-24",
+      "posted": "2026-08-27",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
+    },
+    {
+      "title": "ClickHouse Operations Engineer ",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-25",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
+    },
+    {
+      "title": "Technical Recruiter",
+      "company": "Trading 212",
+      "location": "Bulgaria",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-26",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/trading212/de2b41fb-9578-4d21-bff9-c1b4b3b13fcc"
+    },
+    {
+      "title": "Partner Solutions Architect - Public Sector",
+      "company": "Elastic",
+      "location": "Washington, DC, United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-27",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333"
+    },
+    {
+      "title": "RVP - AI Natives",
+      "company": "Elastic",
+      "location": "United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-27",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8114222&gh_jid=8114222"
     }
   ]
 }
