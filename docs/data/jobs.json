@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:56:21.022341+00:00",
+  "generated_at": "2026-09-02T07:15:42.883949+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,24 +13,24 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-27",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
-    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
-      "location": "Remote - India",
+      "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-08-31",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8104436"
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+    },
+    {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -38,7 +38,7 @@
       "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-27",
+      "posted": "2026-09-01",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
@@ -48,7 +48,7 @@
       "location": "Boston, Massachusetts, USA",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-27",
+      "posted": "2026-09-01",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     },
@@ -58,19 +58,9 @@
       "location": "Madrid, Spain",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-08-27",
+      "posted": "2026-09-01",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
-    },
-    {
-      "title": "ClickHouse Operations Engineer ",
-      "company": "PostHog",
-      "location": "Remote",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-25",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
     },
     {
       "title": "Technical Recruiter",
@@ -101,6 +91,16 @@
       "posted": "2026-08-27",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8114222&gh_jid=8114222"
+    },
+    {
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "company": "Elastic",
+      "location": "Portugal",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-08-27",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8080260&gh_jid=8080260"
     }
   ]
 }
