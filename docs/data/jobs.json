@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:15:42.883949+00:00",
+  "generated_at": "2026-09-03T07:19:28.974128+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,24 +13,14 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-31",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
       "title": "Software Engineer 3",
       "company": "MongoDB",
-      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -38,9 +28,29 @@
       "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Colombia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "Datadog",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-02",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
@@ -48,7 +58,7 @@
       "location": "Boston, Massachusetts, USA",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     },
@@ -58,19 +68,9 @@
       "location": "Madrid, Spain",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
-    },
-    {
-      "title": "Technical Recruiter",
-      "company": "Trading 212",
-      "location": "Bulgaria",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-26",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/trading212/de2b41fb-9578-4d21-bff9-c1b4b3b13fcc"
     },
     {
       "title": "Partner Solutions Architect - Public Sector",
@@ -95,12 +95,12 @@
     {
       "title": "Software Engineer II - Full Stack - Web Engineering",
       "company": "Elastic",
-      "location": "Portugal",
+      "location": "Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-08-27",
       "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8080260&gh_jid=8080260"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8097064&gh_jid=8097064"
     }
   ]
 }
