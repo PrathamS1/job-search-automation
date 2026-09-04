@@ -1,26 +1,16 @@
 {
-  "generated_at": "2026-09-03T07:19:28.974128+00:00",
+  "generated_at": "2026-09-04T07:22:03.064089+00:00",
   "count": 10,
   "jobs": [
     {
-      "title": "Sr Analyst, FP&A",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-27",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
-    },
-    {
       "title": "Software Engineer 3",
       "company": "MongoDB",
-      "location": "Gurugram",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -33,24 +23,24 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Technical Account Manager 3 - South Africa",
+      "company": "Datadog",
+      "location": "South Africa, Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-03",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-02",
+      "posted": "2026-09-03",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Technical Account Manager",
-      "company": "Datadog",
-      "location": "Tokyo, Japan",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-02",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
@@ -73,34 +63,44 @@
       "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     },
     {
-      "title": "Partner Solutions Architect - Public Sector",
+      "title": "Sales Development Representative - Public Sector",
       "company": "Elastic",
-      "location": "Washington, DC, United States",
+      "location": "Arlington, VA",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-27",
+      "posted": "2026-09-02",
       "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333"
-    },
-    {
-      "title": "RVP - AI Natives",
-      "company": "Elastic",
-      "location": "United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-27",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8114222&gh_jid=8114222"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8172156&gh_jid=8172156"
     },
     {
       "title": "Software Engineer II - Full Stack - Web Engineering",
       "company": "Elastic",
-      "location": "Ireland",
+      "location": "United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-27",
+      "posted": "2026-09-02",
       "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8097064&gh_jid=8097064"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8173414&gh_jid=8173414"
+    },
+    {
+      "title": "Partner Solutions Architect - Public Sector",
+      "company": "Elastic",
+      "location": "Florida, United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-03",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923"
+    },
+    {
+      "title": "Manager I, Engineering - Applied AI/ML Product Analytics Suite",
+      "company": "Datadog",
+      "location": "Paris, France",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-02",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768"
     }
   ]
 }
