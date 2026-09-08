@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-09-07T07:29:10.593569+00:00",
+  "generated_at": "2026-09-08T07:22:42.318556+00:00",
   "count": 10,
   "jobs": [
     {
+      "title": "Coordinator, Marketing Operations (Fixed Term)",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-07",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
+    },
+    {
+      "title": "Engineering Architect  - DX/AX/UX",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
+    },
+    {
+      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-09-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
+    },
+    {
       "title": "Software Engineer 3",
       "company": "MongoDB",
-      "location": "Gurugram",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -28,9 +58,19 @@
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-04",
+      "posted": "2026-09-07",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "Datadog",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-02",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
@@ -53,54 +93,14 @@
       "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     },
     {
-      "title": "Sales Development Representative - Public Sector",
-      "company": "Elastic",
-      "location": "Arlington, VA",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-02",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8172156&gh_jid=8172156"
-    },
-    {
-      "title": "Software Engineer II - Full Stack - Web Engineering",
-      "company": "Elastic",
-      "location": "United Kingdom",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-02",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8173414&gh_jid=8173414"
-    },
-    {
-      "title": "Partner Solutions Architect - Public Sector",
-      "company": "Elastic",
-      "location": "Florida, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-03",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923"
-    },
-    {
-      "title": "Manager I, Engineering - Applied AI/ML Product Analytics Suite",
-      "company": "Datadog",
-      "location": "Paris, France",
+      "title": "Commercial Renewals Manager",
+      "company": "Okta",
+      "location": "Manila, Philippines",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-02",
+      "posted": "2026-09-08",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768"
-    },
-    {
-      "title": "Manager I, Engineering - Data Visualization Explorations",
-      "company": "Datadog",
-      "location": "New York, New York, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-02",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7947742/?gh_jid=7947742"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     }
   ]
 }
