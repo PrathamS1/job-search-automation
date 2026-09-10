@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:30:57.431669+00:00",
+  "generated_at": "2026-09-10T07:27:28.003904+00:00",
   "count": 10,
   "jobs": [
     {
@@ -21,6 +21,16 @@
       "posted": "2026-09-08",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
+    },
+    {
+      "title": "Procurement Coordinator ",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-09",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8147737?gh_jid=8147737"
     },
     {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
@@ -91,16 +101,6 @@
       "posted": "2026-09-08",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
-    },
-    {
-      "title": "Customer First GEO Content Specialist",
-      "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
     }
   ]
 }
