@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:25:43.898611+00:00",
+  "generated_at": "2026-09-12T07:18:00.396333+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,22 +13,12 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
-    {
       "title": "Engineering Architect  - DX/AX/UX",
       "company": "Okta",
       "location": "Bengaluru, India",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
@@ -38,7 +28,7 @@
       "location": "Bengaluru, India",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-09",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8147737?gh_jid=8147737"
     },
@@ -48,7 +38,7 @@
       "location": "Bengaluru, India",
       "work_mode": "On-site",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
@@ -63,14 +53,44 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-10",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+    },
+    {
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-10",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+    },
+    {
+      "title": "Technical Account Manager 3 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-10",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     },
     {
       "title": "Commercial Renewals Manager",
@@ -78,29 +98,9 @@
       "location": "Manila, Philippines",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
-    },
-    {
-      "title": "Customer First GEO Content Specialist",
-      "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
-    },
-    {
-      "title": "Field Marketing Specialist",
-      "company": "Okta",
-      "location": "Tokyo, Japan",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
     }
   ]
 }
