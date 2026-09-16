@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:57:36.419865+00:00",
+  "generated_at": "2026-09-16T07:50:30.796089+00:00",
   "count": 10,
   "jobs": [
     {
@@ -18,7 +18,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-11",
+      "posted": "2026-09-15",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -48,7 +48,7 @@
       "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-10",
+      "posted": "2026-09-15",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
@@ -58,39 +58,9 @@
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-14",
+      "posted": "2026-09-15",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Technical Account Manager 2 - Boston",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-10",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Technical Account Manager 3 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-10",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
-    },
-    {
-      "title": "Customer First GEO Content Specialist",
-      "company": "Okta",
-      "location": "Toronto, Ontario, Canada",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8036149?gh_jid=8036149"
     },
     {
       "title": "Field Marketing Specialist",
@@ -101,6 +71,36 @@
       "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
+    },
+    {
+      "title": "Large Enterprise Account Executive Okta",
+      "company": "Okta",
+      "location": "London, United Kingdom",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715"
+    },
+    {
+      "title": "Public Sector Account Executive, Okta",
+      "company": "Okta",
+      "location": "Melbourne, Australia",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7975472?gh_jid=7975472"
+    },
+    {
+      "title": "Sr Solutions Architect",
+      "company": "ExtraHop",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-15",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
     }
   ]
 }
