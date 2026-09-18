@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-17T07:55:28.163608+00:00",
+  "generated_at": "2026-09-18T07:33:29.919251+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Coordinator, Marketing Operations (Fixed Term)",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-10",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
-    },
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
@@ -33,16 +23,6 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
     },
     {
-      "title": "Engineering Architect  - DX/AX/UX",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
-    },
-    {
       "title": "Manager I, Engineering - Security Libraries",
       "company": "Datadog",
       "location": "Paris, France",
@@ -53,12 +33,22 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Account Executive, Commercial",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-17",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     },
@@ -101,6 +91,16 @@
       "posted": "2026-09-15",
       "source": "RemoteOK",
       "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
+    },
+    {
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "location": "",
+      "work_mode": "Remote",
+      "salary": "$150,000 - $250,000 (USD, RemoteOK)",
+      "posted": "2026-09-16",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
     }
   ]
 }
