@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-23T07:54:32.644099+00:00",
+  "generated_at": "2026-09-24T07:45:00.816192+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Consulting Architect - Platform",
       "company": "Elastic",
@@ -63,16 +53,6 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-21",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
       "title": "Director, APJ Deal Strategy",
       "company": "Okta",
       "location": "Singapore",
@@ -81,6 +61,26 @@
       "posted": "2026-09-22",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Colombia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-23",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "Datadog",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-18",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
@@ -93,14 +93,14 @@
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     },
     {
-      "title": "AI agent engineer",
-      "company": "Sticker Mule",
-      "location": "",
-      "work_mode": "Remote",
-      "salary": "$150,000 - $250,000 (USD, RemoteOK)",
-      "posted": "2026-09-16",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+      "title": "Technical Account Manager 3 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-18",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
