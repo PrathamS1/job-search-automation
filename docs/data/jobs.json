@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-24T07:45:00.816192+00:00",
+  "generated_at": "2026-09-25T08:05:28.473833+00:00",
   "count": 10,
   "jobs": [
     {
-      "title": "Consulting Architect - Platform",
-      "company": "Elastic",
-      "location": "India",
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-17",
+      "posted": "2026-09-24",
       "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
     {
       "title": "Associate Software Development Engineer (SDE)",
@@ -23,16 +23,6 @@
       "apply_url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a"
     },
     {
-      "title": "Account Executive, Commercial",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-17",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
-    },
-    {
       "title": "Manager I, Engineering - Security Libraries",
       "company": "Datadog",
       "location": "Paris, France",
@@ -41,16 +31,6 @@
       "posted": "2026-09-18",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
-      "title": "Business Development Representative , Startups",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-18",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
     },
     {
       "title": "Director, APJ Deal Strategy",
@@ -63,24 +43,34 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
     },
     {
+      "title": "Account Executive, Commercial",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-24",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
+    },
+    {
+      "title": "Business Development Representative , Startups",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-24",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-23",
+      "posted": "2026-09-24",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Technical Account Manager",
-      "company": "Datadog",
-      "location": "Tokyo, Japan",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-18",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
@@ -101,6 +91,16 @@
       "posted": "2026-09-18",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
+    },
+    {
+      "title": "Commercial Renewals Manager",
+      "company": "Okta",
+      "location": "Manila, Philippines",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     }
   ]
 }
