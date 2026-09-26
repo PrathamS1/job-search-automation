@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:05:28.473833+00:00",
+  "generated_at": "2026-09-26T07:56:11.935812+00:00",
   "count": 10,
   "jobs": [
     {
@@ -21,16 +21,6 @@
       "posted": "2026-09-21",
       "source": "Lever",
       "apply_url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a"
-    },
-    {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-18",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
       "title": "Director, APJ Deal Strategy",
@@ -68,29 +58,9 @@
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-25",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Technical Account Manager 2 - Boston",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-18",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Technical Account Manager 3 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-18",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     },
     {
       "title": "Commercial Renewals Manager",
@@ -101,6 +71,36 @@
       "posted": "2026-09-21",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+    },
+    {
+      "title": "Field Marketing Specialist",
+      "company": "Okta",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
+    },
+    {
+      "title": "Large Enterprise Account Executive Okta",
+      "company": "Okta",
+      "location": "London, United Kingdom",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715"
+    },
+    {
+      "title": "Public Sector Account Executive, Okta",
+      "company": "Okta",
+      "location": "Melbourne, Australia",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7975472?gh_jid=7975472"
     }
   ]
 }
