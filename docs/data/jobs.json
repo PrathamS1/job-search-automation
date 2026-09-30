@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:53:56.858529+00:00",
+  "generated_at": "2026-09-30T08:53:33.994941+00:00",
   "count": 10,
   "jobs": [
     {
@@ -11,16 +11,6 @@
       "posted": "2026-09-28",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
-    },
-    {
-      "title": "Director, APJ Deal Strategy",
-      "company": "Okta",
-      "location": "Singapore",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-22",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
     },
     {
       "title": "Account Executive, Commercial",
@@ -53,24 +43,24 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
     },
     {
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris, France",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-29",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-28",
+      "posted": "2026-09-29",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Technical Account Manager 2 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-25",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     },
     {
       "title": "Commercial Renewals Manager",
@@ -93,14 +83,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8236501?gh_jid=8236501"
     },
     {
-      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
-      "company": "Mozilla",
-      "location": "Remote Canada; Remote France; Remote Germany; Remote UK",
-      "work_mode": "Remote",
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-29",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8223398"
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+    },
+    {
+      "title": "Technical Account Manager 2 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-29",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
