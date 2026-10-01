@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T08:53:33.994941+00:00",
-  "count": 10,
+  "generated_at": "2026-10-01T09:17:54.495207+00:00",
+  "count": 9,
   "jobs": [
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
@@ -35,22 +35,12 @@
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
-      "location": "United States",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-28",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
-    },
-    {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-29",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
       "title": "Technical Support Engineer 2",
@@ -58,7 +48,7 @@
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-29",
+      "posted": "2026-09-30",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     },
@@ -83,24 +73,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8236501?gh_jid=8236501"
     },
     {
-      "title": "Technical Account Manager 2 - Boston",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
-      "work_mode": "Hybrid",
+      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "company": "Mozilla",
+      "location": "Remote Canada; Remote France; Remote Germany; Remote UK",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-29",
+      "posted": "2026-09-24",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8223398"
     },
     {
-      "title": "Technical Account Manager 2 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
+      "title": "Product Engineer",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-29",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
+      "posted": "2026-09-24",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8"
     }
   ]
 }
