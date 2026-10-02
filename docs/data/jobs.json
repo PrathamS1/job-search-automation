@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T09:17:54.495207+00:00",
-  "count": 9,
+  "generated_at": "2026-10-02T08:50:33.528608+00:00",
+  "count": 10,
   "jobs": [
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
@@ -13,24 +13,24 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
-      "title": "Account Executive, Commercial",
-      "company": "Vercel",
-      "location": "Hybrid - London",
+      "title": "Consulting Architect - Platform",
+      "company": "Elastic",
+      "location": "India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-10-01",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
     },
     {
-      "title": "Business Development Representative , Startups",
-      "company": "Vercel",
-      "location": "Hybrid - London",
+      "title": "Coordinator, Marketing Operations (Fixed Term)",
+      "company": "Elastic",
+      "location": "Bangalore, India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-10-01",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
     },
     {
       "title": "Software Engineer 3",
@@ -43,12 +43,22 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
     },
     {
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris, France",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-29",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-30",
+      "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     },
@@ -73,24 +83,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8236501?gh_jid=8236501"
     },
     {
-      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
-      "company": "Mozilla",
-      "location": "Remote Canada; Remote France; Remote Germany; Remote UK",
-      "work_mode": "Remote",
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-29",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8223398"
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     },
     {
-      "title": "Product Engineer",
-      "company": "PostHog",
-      "location": "Remote",
-      "work_mode": "Remote",
+      "title": "Technical Account Manager 2 - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8"
+      "posted": "2026-09-29",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
