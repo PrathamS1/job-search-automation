@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:50:33.528608+00:00",
+  "generated_at": "2026-10-03T08:27:23.698407+00:00",
   "count": 10,
   "jobs": [
     {
@@ -33,14 +33,14 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
     },
     {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
-      "work_mode": "Remote",
+      "title": "Enterprise Account Executive, Bengaluru",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
       "salary": "Not disclosed",
-      "posted": "2026-09-28",
+      "posted": "2026-10-02",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -53,12 +53,22 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-01",
+      "posted": "2026-10-02",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     },
@@ -91,16 +101,6 @@
       "posted": "2026-09-29",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Technical Account Manager 2 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-29",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
     }
   ]
 }
