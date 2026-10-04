@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:27:23.698407+00:00",
+  "generated_at": "2026-10-04T08:40:10.134657+00:00",
   "count": 10,
   "jobs": [
     {
@@ -55,12 +55,22 @@
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
-      "location": "United States",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-10-02",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8108725"
+    },
+    {
+      "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
+      "company": "Canonical",
+      "location": "Office Based - Beijing, China",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
     },
     {
       "title": "Technical Support Engineer 2",
@@ -91,16 +101,6 @@
       "posted": "2026-09-28",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8236501?gh_jid=8236501"
-    },
-    {
-      "title": "Technical Account Manager 2 - Boston",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-29",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
     }
   ]
 }
