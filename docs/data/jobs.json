@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-05T09:29:48.292822+00:00",
+  "generated_at": "2026-10-06T09:14:49.703226+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Software Engineer 3 - Enterprise Architecture",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-28",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
-    },
     {
       "title": "Consulting Architect - Platform",
       "company": "Elastic",
@@ -31,6 +21,26 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
+    },
+    {
+      "title": "Software Engineer 3 - Enterprise Architecture",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
+    },
+    {
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "company": "Canonical",
+      "location": "Home based - Worldwide",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8249005"
     },
     {
       "title": "Enterprise Account Executive, Bengaluru",
@@ -53,12 +63,22 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
+      "company": "Canonical",
+      "location": "Office Based - Beijing, China",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
+    },
+    {
       "title": "Software Engineer 3",
       "company": "MongoDB",
       "location": "United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-02",
+      "posted": "2026-10-05",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8089124"
     },
@@ -68,29 +88,9 @@
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-02",
+      "posted": "2026-10-05",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Commercial Renewals Manager",
-      "company": "Okta",
-      "location": "Manila, Philippines",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-28",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8190478?gh_jid=8190478"
-    },
-    {
-      "title": "Public Sector Account Executive",
-      "company": "Okta",
-      "location": "London, United Kingdom",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-28",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8236501?gh_jid=8236501"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
