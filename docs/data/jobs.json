@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:05:14.339568+00:00",
+  "generated_at": "2026-10-08T09:20:16.004603+00:00",
   "count": 10,
   "jobs": [
     {
@@ -63,6 +63,16 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
     },
     {
+      "title": "Marketing Coordinators, AMER (Fixed Term)",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-08",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8263255&gh_jid=8263255"
+    },
+    {
       "title": "Enterprise Account Executive, Bengaluru",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -73,34 +83,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
+      "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
+      "company": "Canonical",
+      "location": "Office Based - Beijing, China",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-07",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
-    {
-      "title": "Technical Account Manager 2 - West",
-      "company": "Datadog",
-      "location": "Denver, Colorado, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-30",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026831/?gh_jid=8026831"
-    },
-    {
-      "title": "Partner Solutions Architect - Public Sector",
-      "company": "Elastic",
-      "location": "Florida, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923"
     }
   ]
 }
