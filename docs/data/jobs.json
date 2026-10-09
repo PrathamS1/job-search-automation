@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-10-08T09:20:16.004603+00:00",
+  "generated_at": "2026-10-09T09:28:04.545590+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Consulting Architect - Platform",
-      "company": "Elastic",
-      "location": "India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
-    },
-    {
-      "title": "Coordinator, Marketing Operations (Fixed Term)",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
-    },
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-05",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
-    {
-      "title": "Software Engineer 3 - Enterprise Architecture",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-05",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
-    },
     {
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
       "company": "Canonical",
@@ -63,6 +23,16 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
     },
     {
+      "title": "Recruiter, R&D",
+      "company": "GitLab",
+      "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-08",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
+    },
+    {
       "title": "Marketing Coordinators, AMER (Fixed Term)",
       "company": "Elastic",
       "location": "Bangalore, India",
@@ -71,6 +41,26 @@
       "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8263255&gh_jid=8263255"
+    },
+    {
+      "title": "Software Engineer 3",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
+    },
+    {
+      "title": "Software Engineer 3 - Enterprise Architecture",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
       "title": "Enterprise Account Executive, Bengaluru",
@@ -93,12 +83,22 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
     },
     {
+      "title": "AE, Okta & Auth0",
+      "company": "Okta",
+      "location": "Tokyo, Japan",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Colombia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     }
