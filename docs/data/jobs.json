@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-12T09:36:23.424240+00:00",
+  "generated_at": "2026-10-13T09:39:37.677976+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "company": "Canonical",
-      "location": "Home based - Worldwide",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-05",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8249005"
-    },
     {
       "title": "UX Engineer",
       "company": "Elastic",
@@ -58,7 +48,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-09",
+      "posted": "2026-10-12",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -68,7 +58,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-09",
+      "posted": "2026-10-12",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
@@ -91,6 +81,16 @@
       "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
+    },
+    {
+      "title": "Enterprise Account Executive, Auth0 - Join our Talent Community",
+      "company": "Okta",
+      "location": "Sydney, Australia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-09",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8266089?gh_jid=8266089"
     },
     {
       "title": "Product Design Lead",
