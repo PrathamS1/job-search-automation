@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:39:37.677976+00:00",
+  "generated_at": "2026-10-14T07:54:43.487944+00:00",
   "count": 10,
   "jobs": [
     {
@@ -48,7 +48,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-12",
+      "posted": "2026-10-13",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -58,9 +58,19 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-12",
+      "posted": "2026-10-13",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
+    },
+    {
+      "title": "Marketing AI Engineer",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-14",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123"
     },
     {
       "title": "Digital Solutions Manager (Recruiting Tech & Learning Platforms) ",
@@ -81,16 +91,6 @@
       "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
-    },
-    {
-      "title": "Enterprise Account Executive, Auth0 - Join our Talent Community",
-      "company": "Okta",
-      "location": "Sydney, Australia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-09",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8266089?gh_jid=8266089"
     },
     {
       "title": "Product Design Lead",
