@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-14T07:54:43.487944+00:00",
+  "generated_at": "2026-10-15T07:39:36.517652+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "UX Engineer",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-07",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
-    },
     {
       "title": "Recruiter, R&D",
       "company": "GitLab",
@@ -91,6 +81,16 @@
       "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
+    },
+    {
+      "title": "Enterprise Account Executive, Auth0 - Join our Talent Community",
+      "company": "Okta",
+      "location": "Sydney, Australia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-09",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8266089?gh_jid=8266089"
     },
     {
       "title": "Product Design Lead",
