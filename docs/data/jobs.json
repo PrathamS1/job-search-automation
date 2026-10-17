@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-16T07:26:29.463428+00:00",
+  "generated_at": "2026-10-17T07:07:45.464873+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Sr Analyst, FP&A",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-09",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945"
-    },
     {
       "title": "Marketing AI Engineer",
       "company": "Elastic",
@@ -48,7 +38,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-15",
+      "posted": "2026-10-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
     },
@@ -58,7 +48,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-15",
+      "posted": "2026-10-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
@@ -73,16 +63,6 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8267278?gh_jid=8267278"
     },
     {
-      "title": "Enterprise Account Executive, Auth0 - Join our Talent Community",
-      "company": "Okta",
-      "location": "Sydney, Australia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-09",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8266089?gh_jid=8266089"
-    },
-    {
       "title": "Manager I, Engineering - Security Libraries",
       "company": "Datadog",
       "location": "Paris, France",
@@ -93,14 +73,34 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Product Design Lead",
-      "company": "Fuel50",
-      "location": "",
+      "title": "Solutions Architect",
+      "company": "Vercel",
+      "location": "Remote - United Kingdom, Germany",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-09",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474"
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
+    },
+    {
+      "title": "Animator & Motion Graphics Designer",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-14",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
     }
   ]
 }
