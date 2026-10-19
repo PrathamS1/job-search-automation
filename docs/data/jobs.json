@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:22:58.409923+00:00",
+  "generated_at": "2026-10-19T08:00:42.401128+00:00",
   "count": 10,
   "jobs": [
     {
@@ -93,14 +93,14 @@
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
     {
-      "title": "Animator & Motion Graphics Designer",
-      "company": "PostHog",
-      "location": "Remote",
+      "title": "Staff FrontEnd Engineer - Platform - App Core Usage | Canada | Remote",
+      "company": "Grafana Labs",
+      "location": "Canada (Remote)",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-14",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/posthog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
+      "posted": "2026-10-18",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004"
     }
   ]
 }
