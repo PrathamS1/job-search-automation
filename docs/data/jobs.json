@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:00:42.401128+00:00",
+  "generated_at": "2026-10-20T07:51:15.579432+00:00",
   "count": 10,
   "jobs": [
     {
@@ -53,16 +53,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
-      "title": "Digital Solutions Manager (Recruiting Tech & Learning Platforms) ",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-10-12",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8267278?gh_jid=8267278"
-    },
-    {
       "title": "Manager I, Engineering - Security Libraries",
       "company": "Datadog",
       "location": "Paris, France",
@@ -83,16 +73,6 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
-    },
-    {
       "title": "Staff FrontEnd Engineer - Platform - App Core Usage | Canada | Remote",
       "company": "Grafana Labs",
       "location": "Canada (Remote)",
@@ -101,6 +81,26 @@
       "posted": "2026-10-18",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-19",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
+    },
+    {
+      "title": "Animator & Motion Graphics Designer",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-14",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
     }
   ]
 }
