@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-10-22T07:51:09.080129+00:00",
-  "count": 10,
+  "generated_at": "2026-10-23T07:50:19.482025+00:00",
+  "count": 8,
   "jobs": [
-    {
-      "title": "Recruiter, R&D",
-      "company": "GitLab",
-      "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-15",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
-    },
-    {
-      "title": "Coordinator, Marketing Operations (Fixed Term)",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-15",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161139&gh_jid=8161139"
-    },
     {
       "title": "Software Engineer 3",
       "company": "MongoDB",
@@ -43,16 +23,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
-      "title": "CSP Cloud Desk Support Desk",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
-    },
-    {
       "title": "Commercial Account Executive",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -61,16 +31,6 @@
       "posted": "2026-10-21",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
-    },
-    {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-15",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
       "title": "Account Executive, Commercial",
@@ -83,16 +43,6 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
     },
     {
-      "title": "Business Development Representative, Startups",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-20",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
-    },
-    {
       "title": "Solutions Architect",
       "company": "Vercel",
       "location": "Remote - United Kingdom, Germany",
@@ -101,6 +51,36 @@
       "posted": "2026-10-20",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+    },
+    {
+      "title": "Staff FrontEnd Engineer - Application Core Services | Canada | Remote",
+      "company": "Grafana Labs",
+      "location": "Canada (Remote)",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-21",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-22",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
+    },
+    {
+      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+      "company": "Mozilla",
+      "location": "Remote Canada; Remote US",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-21",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8306479"
     }
   ]
 }
