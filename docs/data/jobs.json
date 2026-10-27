@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-26T08:01:07.557680+00:00",
-  "count": 9,
+  "generated_at": "2026-10-27T08:14:53.014174+00:00",
+  "count": 7,
   "jobs": [
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-23",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
-    },
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
       "company": "MongoDB",
@@ -53,34 +43,14 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
     },
     {
-      "title": "Staff FrontEnd Engineer - Application Core Services | Canada | Remote",
-      "company": "Grafana Labs",
-      "location": "Canada (Remote)",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-21",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004"
-    },
-    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-26",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
-    },
-    {
-      "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
-      "company": "Mozilla",
-      "location": "Remote Canada; Remote US",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-21",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8306479"
     },
     {
       "title": "Sales Development Representative - New York",
@@ -91,6 +61,16 @@
       "posted": "2026-10-23",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605"
+    },
+    {
+      "title": "ClickHouse Operations Engineer ",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-26",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
     }
   ]
 }
