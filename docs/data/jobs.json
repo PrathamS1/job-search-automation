@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T08:14:53.014174+00:00",
-  "count": 7,
+  "generated_at": "2026-10-28T08:52:50.402025+00:00",
+  "count": 6,
   "jobs": [
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
@@ -8,7 +8,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
@@ -25,22 +25,12 @@
     {
       "title": "Account Executive, Commercial",
       "company": "Vercel",
-      "location": "Hybrid - London",
+      "location": "Remote - Germany",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-20",
+      "posted": "2026-10-22",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
-    },
-    {
-      "title": "Solutions Architect",
-      "company": "Vercel",
-      "location": "Remote - United Kingdom, Germany",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-20",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
     },
     {
       "title": "Technical Support Engineer 2",
@@ -48,7 +38,7 @@
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
