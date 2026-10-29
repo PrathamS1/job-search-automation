@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-28T08:52:50.402025+00:00",
-  "count": 6,
+  "generated_at": "2026-10-29T08:46:02.195719+00:00",
+  "count": 8,
   "jobs": [
+    {
+      "title": "Recruiter, R&D",
+      "company": "GitLab",
+      "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-28",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
+    },
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
       "company": "MongoDB",
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
-    },
-    {
-      "title": "Commercial Account Executive",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-10-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
     },
     {
       "title": "Account Executive, Commercial",
@@ -33,12 +33,22 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
     },
     {
+      "title": "Solutions Architect",
+      "company": "Vercel",
+      "location": "Hybrid - London, Berlin",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-28",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
@@ -61,6 +71,16 @@
       "posted": "2026-10-26",
       "source": "Ashby",
       "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
+    },
+    {
+      "title": " Technical Support Engineer",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-28",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
     }
   ]
 }
