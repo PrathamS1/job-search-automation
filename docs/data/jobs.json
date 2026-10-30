@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T08:46:02.195719+00:00",
-  "count": 8,
+  "generated_at": "2026-10-30T08:52:15.153455+00:00",
+  "count": 7,
   "jobs": [
     {
       "title": "Recruiter, R&D",
@@ -23,16 +23,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
-      "title": "Account Executive, Commercial",
-      "company": "Vercel",
-      "location": "Remote - Germany",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-22",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
-    },
-    {
       "title": "Solutions Architect",
       "company": "Vercel",
       "location": "Hybrid - London, Berlin",
@@ -48,7 +38,7 @@
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
@@ -63,16 +53,6 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605"
     },
     {
-      "title": "ClickHouse Operations Engineer ",
-      "company": "PostHog",
-      "location": "Remote",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-26",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
-    },
-    {
       "title": " Technical Support Engineer",
       "company": "PostHog",
       "location": "Remote",
@@ -81,6 +61,16 @@
       "posted": "2026-10-28",
       "source": "Ashby",
       "apply_url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
+    },
+    {
+      "title": "ClickHouse Operations Engineer ",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-29",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
     }
   ]
 }
