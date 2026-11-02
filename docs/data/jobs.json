@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T09:31:50.418411+00:00",
-  "count": 9,
+  "generated_at": "2026-11-02T09:48:14.607806+00:00",
+  "count": 10,
   "jobs": [
     {
       "title": "Recruiter, R&D",
@@ -21,6 +21,16 @@
       "posted": "2026-10-28",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
+    },
+    {
+      "title": "CSP Cloud Desk Support Desk",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
     },
     {
       "title": "Account Executive, Commercial",
@@ -58,9 +68,19 @@
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-30",
+      "posted": "2026-11-01",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
+    },
+    {
+      "title": "Regional Sales Manager - Public Sector",
+      "company": "Okta",
+      "location": "Brisbane, Australia",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-11-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8081048?gh_jid=8081048"
     },
     {
       "title": " Technical Support Engineer",
@@ -81,16 +101,6 @@
       "posted": "2026-10-29",
       "source": "Ashby",
       "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
-    },
-    {
-      "title": "Partner Solutions Architect - Public Sector",
-      "company": "Elastic",
-      "location": "Washington, DC, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-30",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8104333&gh_jid=8104333"
     }
   ]
 }
