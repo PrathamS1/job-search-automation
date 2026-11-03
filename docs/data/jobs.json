@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:48:14.607806+00:00",
+  "generated_at": "2026-11-03T09:52:53.278118+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,16 +13,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
     },
     {
-      "title": "Software Engineer 3 - Enterprise Architecture",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-28",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
-    },
-    {
       "title": "CSP Cloud Desk Support Desk",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -31,6 +21,16 @@
       "posted": "2026-11-01",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
+    },
+    {
+      "title": "Software Engineer 3 - Enterprise Architecture",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-02",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
       "title": "Account Executive, Commercial",
@@ -68,7 +68,7 @@
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-01",
+      "posted": "2026-11-02",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
@@ -93,14 +93,14 @@
       "apply_url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
     },
     {
-      "title": "ClickHouse Operations Engineer ",
-      "company": "PostHog",
-      "location": "Remote",
+      "title": "Partner Solutions Architect - Public Sector",
+      "company": "Elastic",
+      "location": "Florida, United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-29",
-      "source": "Ashby",
-      "apply_url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
+      "posted": "2026-10-30",
+      "source": "Greenhouse",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923"
     }
   ]
 }
