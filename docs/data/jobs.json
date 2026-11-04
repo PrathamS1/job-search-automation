@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:52:53.278118+00:00",
+  "generated_at": "2026-11-04T09:40:36.878127+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,22 +13,12 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
     },
     {
-      "title": "CSP Cloud Desk Support Desk",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-01",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
-    },
-    {
       "title": "Software Engineer 3 - Enterprise Architecture",
       "company": "MongoDB",
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
@@ -83,6 +73,26 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8081048?gh_jid=8081048"
     },
     {
+      "title": "Solutions Consultant, SMB (London, United Kingdom)",
+      "company": "Figma",
+      "location": "London, England",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-11-03",
+      "source": "Greenhouse",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6236341004?gh_jid=6236341004"
+    },
+    {
+      "title": "Commercial Renewals Manager",
+      "company": "Okta",
+      "location": "Manila, Philippines",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-11-03",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+    },
+    {
       "title": " Technical Support Engineer",
       "company": "PostHog",
       "location": "Remote",
@@ -91,16 +101,6 @@
       "posted": "2026-10-28",
       "source": "Ashby",
       "apply_url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
-    },
-    {
-      "title": "Partner Solutions Architect - Public Sector",
-      "company": "Elastic",
-      "location": "Florida, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-30",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923"
     }
   ]
 }
