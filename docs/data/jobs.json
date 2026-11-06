@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:44:55.300016+00:00",
+  "generated_at": "2026-11-06T09:40:46.578194+00:00",
   "count": 10,
   "jobs": [
     {
@@ -8,7 +8,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
@@ -23,16 +23,6 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
     },
     {
-      "title": "Business Development Representative, Startups",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-30",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
-    },
-    {
       "title": "Solutions Architect",
       "company": "Vercel",
       "location": "Hybrid - London, Berlin",
@@ -43,12 +33,32 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
     },
     {
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris, France",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-05",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+    },
+    {
+      "title": "Head of APJ Deal Desk",
+      "company": "Okta",
+      "location": "Singapore",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-04",
+      "posted": "2026-11-06",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
@@ -73,34 +83,24 @@
       "apply_url": "https://boards.greenhouse.io/figma/jobs/6236341004?gh_jid=6236341004"
     },
     {
+      "title": "Technical Account Manager 2 - Boston",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-11-05",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+    },
+    {
       "title": "Commercial Renewals Manager",
       "company": "Okta",
       "location": "Manila, Philippines",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
-    },
-    {
-      "title": "Front End Engineer",
-      "company": "Tailscale",
-      "location": "Remote (United States)",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-02",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/tailscale/jobs/4749610005"
-    },
-    {
-      "title": "Partner Solutions Architect - Public Sector",
-      "company": "Elastic",
-      "location": "Florida, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-03",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647"
     }
   ]
 }
