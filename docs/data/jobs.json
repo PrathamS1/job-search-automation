@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:40:46.578194+00:00",
+  "generated_at": "2026-11-07T09:03:52.929460+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,24 +13,14 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
-      "title": "Account Executive, Commercial",
-      "company": "Vercel",
-      "location": "Remote - Germany",
+      "title": "Recruiter, R&D",
+      "company": "GitLab",
+      "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-30",
+      "posted": "2026-11-06",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
-    },
-    {
-      "title": "Solutions Architect",
-      "company": "Vercel",
-      "location": "Hybrid - London, Berlin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-30",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -101,6 +91,16 @@
       "posted": "2026-11-05",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+    },
+    {
+      "title": "Front End Engineer",
+      "company": "Tailscale",
+      "location": "Remote (United States)",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/tailscale/jobs/4749610005"
     }
   ]
 }
