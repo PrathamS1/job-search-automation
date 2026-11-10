@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:07:06.914881+00:00",
+  "generated_at": "2026-11-10T10:14:07.782588+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,16 +23,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
     },
     {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-05",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
       "title": "Head of APJ Deal Desk",
       "company": "Okta",
       "location": "Singapore",
@@ -43,12 +33,22 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
     },
     {
+      "title": "Partner Lead, EMEA",
+      "company": "Vercel",
+      "location": "Hybrid - London, Berlin",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-09",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5844601004"
+    },
+    {
       "title": "Technical Support Engineer 2",
       "company": "Twilio",
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-06",
+      "posted": "2026-11-09",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
@@ -83,24 +83,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     },
     {
-      "title": "Front End Engineer",
-      "company": "Tailscale",
-      "location": "Remote (Canada)",
+      "title": "Web3 Business Development",
+      "company": "CertiK",
+      "location": "",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-02",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/tailscale/jobs/4749592005"
+      "posted": "2026-11-09",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707"
     },
     {
-      "title": "Partner Solutions Architect - Public Sector",
-      "company": "Elastic",
-      "location": "Washington, DC, United States",
-      "work_mode": "Remote",
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "location": "Any State",
+      "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-11-03",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518"
+      "posted": "2026-11-08",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704"
     }
   ]
 }
