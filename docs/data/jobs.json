@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-11-10T10:14:07.782588+00:00",
+  "generated_at": "2026-11-11T09:43:54.294847+00:00",
   "count": 10,
   "jobs": [
+    {
+      "title": "Recruiter, R&D",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, India; Remote, Poland; Remote, United Kingdom; Remote, United States",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
+    },
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
       "company": "MongoDB",
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-05",
+      "posted": "2026-11-10",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
-      "title": "Recruiter, R&D",
-      "company": "GitLab",
-      "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+      "title": "Associate, Marketing Technology",
+      "company": "Elastic",
+      "location": "Bangalore, India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-06",
+      "posted": "2026-11-11",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068"
     },
     {
       "title": "Head of APJ Deal Desk",
@@ -51,16 +61,6 @@
       "posted": "2026-11-09",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
-    },
-    {
-      "title": "Solutions Consultant, SMB (London, United Kingdom)",
-      "company": "Figma",
-      "location": "London, England",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-11-03",
-      "source": "Greenhouse",
-      "apply_url": "https://boards.greenhouse.io/figma/jobs/6236341004?gh_jid=6236341004"
     },
     {
       "title": "Technical Account Manager 2 - Boston",
