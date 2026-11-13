@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:05:24.085330+00:00",
+  "generated_at": "2026-11-13T09:52:03.026635+00:00",
   "count": 10,
   "jobs": [
     {
@@ -13,16 +13,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
     },
     {
-      "title": "Software Engineer 3 - Enterprise Architecture",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-10",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
-    },
-    {
       "title": "Associate, Marketing Technology",
       "company": "Elastic",
       "location": "Bangalore, India",
@@ -33,14 +23,14 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068"
     },
     {
-      "title": "Head of APJ Deal Desk",
-      "company": "Okta",
-      "location": "Singapore",
+      "title": "Software Engineer 3 - Enterprise Architecture",
+      "company": "MongoDB",
+      "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-05",
+      "posted": "2026-11-12",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221290"
     },
     {
       "title": "Partner Lead, EMEA",
@@ -58,29 +48,39 @@
       "location": "Remote - Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     },
     {
-      "title": "Technical Account Manager 2 - Boston",
+      "title": "Technical Account Manager 2 - New York",
       "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
+      "location": "New York, New York, USA",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-11-05",
+      "posted": "2026-11-10",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+      "apply_url": "https://careers.datadoghq.com/detail/8357178/?gh_jid=8357178"
     },
     {
-      "title": "Commercial Renewals Manager",
-      "company": "Okta",
-      "location": "Manila, Philippines",
-      "work_mode": "Hybrid",
+      "title": " Technical Support Engineer",
+      "company": "PostHog",
+      "location": "Remote",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
+      "source": "Ashby",
+      "apply_url": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7"
+    },
+    {
+      "title": "Full Stack Technical Developer",
+      "company": "Elastic",
+      "location": "Costa Rica",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-09",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8281841&gh_jid=8281841"
     },
     {
       "title": "Web3 Business Development",
