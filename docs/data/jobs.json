@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:45:43.369227+00:00",
+  "generated_at": "2026-11-16T10:01:51.748221+00:00",
   "count": 10,
   "jobs": [
     {
@@ -83,6 +83,16 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
     },
     {
+      "title": "Head of APJ Deal Desk",
+      "company": "Okta",
+      "location": "Singapore",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-13",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
+    },
+    {
       "title": "Web3 Business Development",
       "company": "CertiK",
       "location": "",
@@ -91,16 +101,6 @@
       "posted": "2026-11-09",
       "source": "RemoteOK",
       "apply_url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707"
-    },
-    {
-      "title": "UI Developer",
-      "company": "RainFocus",
-      "location": "Any State",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-11-08",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704"
     }
   ]
 }
