@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-11-17T11:00:44.342975+00:00",
+  "generated_at": "2026-11-18T10:30:49.641722+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Recruiter, R&D",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, India; Remote, Poland; Remote, United Kingdom; Remote, United States",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-10",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
-    },
     {
       "title": "Associate, Marketing Technology",
       "company": "Elastic",
@@ -101,6 +91,16 @@
       "posted": "2026-11-16",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
+    },
+    {
+      "title": "Technical Support Engineer 2",
+      "company": "Twilio",
+      "location": "Remote - Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-17",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
     }
   ]
 }
