@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-11-18T10:30:49.641722+00:00",
+  "generated_at": "2026-11-19T10:38:16.171303+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Associate, Marketing Technology",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-11",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068"
-    },
     {
       "title": "Software Engineer 3 - Enterprise Architecture",
       "company": "MongoDB",
@@ -73,16 +63,6 @@
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/2804965"
     },
     {
-      "title": "AE, Okta & Auth0",
-      "company": "Okta",
-      "location": "Tokyo, Japan",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
-    },
-    {
       "title": "Head of APJ Deal Desk",
       "company": "Okta",
       "location": "Singapore",
@@ -93,14 +73,34 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
     },
     {
-      "title": "Technical Support Engineer 2",
-      "company": "Twilio",
-      "location": "Remote - Ireland",
+      "title": "Customer Support Engineer",
+      "company": "Vercel",
+      "location": "Remote - Australia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6230763004"
+    },
+    {
+      "title": "Technical Account Manager 3 - East",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-11-13",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8046392/?gh_jid=8046392"
+    },
+    {
+      "title": "Field Marketing Specialist",
+      "company": "Okta",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-11-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
     }
   ]
 }
