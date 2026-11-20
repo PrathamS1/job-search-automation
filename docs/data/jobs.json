@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:38:16.171303+00:00",
+  "generated_at": "2026-11-20T10:18:45.470478+00:00",
   "count": 10,
   "jobs": [
     {
@@ -28,7 +28,7 @@
       "location": "Bengaluru, India",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-11-16",
+      "posted": "2026-11-19",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8267278?gh_jid=8267278"
     },
@@ -53,6 +53,16 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
+      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-11-20",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
+    },
+    {
       "title": "Web Developer",
       "company": "Canonical",
       "location": "Home based - EMEA",
@@ -61,16 +71,6 @@
       "posted": "2026-11-16",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/2804965"
-    },
-    {
-      "title": "Head of APJ Deal Desk",
-      "company": "Okta",
-      "location": "Singapore",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
     },
     {
       "title": "Customer Support Engineer",
@@ -83,24 +83,24 @@
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6230763004"
     },
     {
-      "title": "Technical Account Manager 3 - East",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "work_mode": "Hybrid",
+      "title": "Head of APJ Deal Desk",
+      "company": "Okta",
+      "location": "Singapore",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-13",
+      "posted": "2026-11-19",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8046392/?gh_jid=8046392"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8222505?gh_jid=8222505"
     },
     {
-      "title": "Field Marketing Specialist",
+      "title": "AE, Okta & Auth0",
       "company": "Okta",
       "location": "Tokyo, Japan",
-      "work_mode": "Hybrid",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-16",
+      "posted": "2026-11-20",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
     }
   ]
 }
